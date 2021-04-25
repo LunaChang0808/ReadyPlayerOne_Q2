@@ -1,0 +1,6043 @@
+﻿{
+	"name": "Region",
+	"children": [
+	  {
+				"name": "China",
+				"children": [{
+						"name": "Action Game",
+						"children": [{
+								"name": "CMM Champions Manager Mobasaka",
+								"value": 5872021
+							},
+							{
+								"name": "eFootball PES 2020",
+								"value": 52419591
+							},
+							{
+								"name": "Fever Basketball",
+								"value": 3410677
+							},
+							{
+								"name": "FIFA ONLINE 3 M",
+								"value": 1507755
+							},
+							{
+								"name": "FIFA Soccer",
+								"value": 127011317
+							},
+							{
+								"name": "Mobasaka Ultimate Football Club",
+								"value": 10582492
+							},
+							{
+								"name": "NBA LIVE Mobile",
+								"value": 9380461
+							},
+							{
+								"name": "NBA Basketball Master",
+								"value": 5210821
+							},
+							{
+								"name": "Slum Dunk",
+								"value": 5647958
+							},
+							{
+								"name": "The best NBA",
+								"value": 45933324
+							}
+						]
+					},
+					{
+						"name": "Action Real-Time MMORPG",
+						"children": [{
+								"name": "A Dream of Jianghu",
+								"value": 422167969
+							},
+							{
+								"name": "Angel Era",
+								"value": 83079997
+							},
+							{
+								"name": "Demon Seals",
+								"value": 42868501
+							},
+							{
+								"name": "Dragon Ball: The Strongest Warrior",
+								"value": 6607452
+							},
+							{
+								"name": "Dragon eight glory Edition",
+								"value": 17805830
+							},
+							{
+								"name": "Dragon Raja",
+								"value": 119130210
+							},
+							{
+								"name": "Expeditionary hand tour",
+								"value": 1227125
+							},
+							{
+								"name": "Faith Framework",
+								"value": 3868378
+							},
+							{
+								"name": "Fantasy Westward Journey 3D",
+								"value": 18950821
+							},
+							{
+								"name": "Fighter of the Destiny",
+								"value": 26075811
+							},
+							{
+								"name": "Fights Break Spheres",
+								"value": 103990019
+							},
+							{
+								"name": "Fire Like the Song",
+								"value": 18871012
+							},
+							{
+								"name": "Flower and sword",
+								"value": 5452860
+							},
+							{
+								"name": "Freedom Fantasy",
+								"value": 153073763
+							},
+							{
+								"name": "Ghost",
+								"value": 394810196
+							},
+							{
+								"name": "Ghost language",
+								"value": 11060213
+							},
+							{
+								"name": "Glory of Cepheus",
+								"value": 14193611
+							},
+							{
+								"name": "God of Night",
+								"value": 116843740
+							},
+							{
+								"name": "Hand tour in Shumen",
+								"value": 12244687
+							},
+							{
+								"name": "Heroes of Tang Dynasty",
+								"value": 9489603
+							},
+							{
+								"name": "Hot blooded sword",
+								"value": 3877479
+							},
+							{
+								"name": "I am MT 4",
+								"value": 241284493
+							},
+							{
+								"name": "Jade Dynasty",
+								"value": 130432198
+							},
+							{
+								"name": "JX online",
+								"value": 280716344
+							},
+							{
+								"name": "King of Kings",
+								"value": 101929082
+							},
+							{
+								"name": "Legend of sword and God of war",
+								"value": 3790342
+							},
+							{
+								"name": "Legend of Xuanyuan",
+								"value": 73062962
+							},
+							{
+								"name": "Legend of Yulong",
+								"value": 57384537
+							},
+							{
+								"name": "Lord Xue Ying",
+								"value": 5786642
+							},
+							{
+								"name": "Lumia Saga",
+								"value": 5738163
+							},
+							{
+								"name": "Martial Universe",
+								"value": 6302576
+							},
+							{
+								"name": "My name is Mt world",
+								"value": 2452419
+							},
+							{
+								"name": "My Own Swordsman",
+								"value": 63131556
+							},
+							{
+								"name": "New Xiaoao",
+								"value": 15825985
+							},
+							{
+								"name": "Novoland the Castle in the Sky",
+								"value": 1189515
+							},
+							{
+								"name": "Perfect World",
+								"value": 405045215
+							},
+							{
+								"name": "QQ??",
+								"value": 76062498
+							},
+							{
+								"name": "Ragnarok M : Eternal Love",
+								"value": 5743283
+							},
+							{
+								"name": "Rasiel",
+								"value": 20782947
+							},
+							{
+								"name": "ReEvolve",
+								"value": 6509450
+							},
+							{
+								"name": "Sansheng Sanshi Shili peach blossom",
+								"value": 4268335
+							},
+							{
+								"name": "Shanhaijing: official recommendation for catching the beast!",
+								"value": 1224880
+							},
+							{
+								"name": "Sword and reincarnation",
+								"value": 2071385
+							},
+							{
+								"name": "Sword dance of the wind",
+								"value": 1545727
+							},
+							{
+								"name": "Sword of Soul",
+								"value": 4522630
+							},
+							{
+								"name": "Swordsman world 2",
+								"value": 13069407
+							},
+							{
+								"name": "Taigu God King: Star soul Awakening",
+								"value": 3526899
+							},
+							{
+								"name": "The Continent of Wind",
+								"value": 183551000
+							},
+							{
+								"name": "The Demi-Gods and Semi-Devils Mobile",
+								"value": 337650166
+							},
+							{
+								"name": "The Epoch of Eternity",
+								"value": 39579968
+							},
+							{
+								"name": "The Land of Glory",
+								"value": 19094071
+							},
+							{
+								"name": "The Legend of Sword and Fairy 4",
+								"value": 22026560
+							},
+							{
+								"name": "The magic night of Tang Dynasty",
+								"value": 1311050
+							},
+							{
+								"name": "The Soul Land",
+								"value": 73928822
+							},
+							{
+								"name": "Tianxia",
+								"value": 5590320
+							},
+							{
+								"name": "Two wonders of ancient Swords",
+								"value": 14517575
+							},
+							{
+								"name": "Warring States annals",
+								"value": 4656573
+							},
+							{
+								"name": "Xuanyuan sword Online",
+								"value": 1619571
+							},
+							{
+								"name": "XunXian",
+								"value": 70059685
+							},
+							{
+								"name": "Yulgang Mobile",
+								"value": 13664419
+							},
+							{
+								"name": "Zhengtu",
+								"value": 52345427
+							},
+							{
+								"name": "ZT Online 2",
+								"value": 37172670
+							}
+						]
+					},
+					{
+						"name": "AR+LBS",
+						"children": [{
+							"name": "Let's Hunt Monsters",
+							"value": 76266261
+						}]
+					},
+					{
+						"name": "ARPG",
+						"children": [{
+								"name": "Bleach: Memories of Nobody",
+								"value": 9851191
+							},
+							{
+								"name": "City of Forever 7 Days",
+								"value": 5454376
+							},
+							{
+								"name": "Dragon Nest",
+								"value": 66036146
+							},
+							{
+								"name": "Fantasy project",
+								"value": 1823030
+							},
+							{
+								"name": "Honkai Impact 3",
+								"value": 248798333
+							},
+							{
+								"name": "Infinite Fighting",
+								"value": 2680682
+							},
+							{
+								"name": "MARVEL Future Fight",
+								"value": 15792931
+							},
+							{
+								"name": "Meteor, Butterfly, Sword",
+								"value": 13737887
+							},
+							{
+								"name": "Punishing: Gray Raven",
+								"value": 11312705
+							},
+							{
+								"name": "Rebellious King Arthur",
+								"value": 1697425
+							},
+							{
+								"name": "Reincarnation formula",
+								"value": 3902043
+							},
+							{
+								"name": "Samurai Spirits",
+								"value": 90628331
+							},
+							{
+								"name": "The return of the great sage",
+								"value": 7449435
+							},
+							{
+								"name": "The Soul of Hunter",
+								"value": 12853685
+							}
+						]
+					},
+					{
+						"name": "Asymmetric Battle Arena",
+						"children": [{
+							"name": "Identity V",
+							"value": 73864572
+						}]
+					},
+					{
+						"name": "Auto Chess Game",
+						"children": [{
+							"name": "Auto Chess:Origin",
+							"value": 1360381
+						}]
+					},
+					{
+						"name": "Battle royale game",
+						"children": [{
+								"name": "Game For Peace",
+								"value": 652693026
+							},
+							{
+								"name": "Knives Out",
+								"value": 98915828
+							},
+							{
+								"name": "Rules of Survival",
+								"value": 21730562
+							}
+						]
+					},
+					{
+						"name": "Business Elimination Game",
+						"children": [{
+								"name": "Gardenscapes - New Acres",
+								"value": 56694240
+							},
+							{
+								"name": "Homescapes",
+								"value": 35247413
+							},
+							{
+								"name": "Zootopia Your Dream Diary",
+								"value": 1245502
+							}
+						]
+					},
+					{
+						"name": "Casual Game",
+						"children": [{
+								"name": "Fishing battle (tuyou)",
+								"value": 4125462
+							},
+							{
+								"name": "Sea King fishing",
+								"value": 4436023
+							},
+							{
+								"name": "Travel Frog",
+								"value": 4713118
+							}
+						]
+					},
+					{
+						"name": "Chess and cards",
+						"children": [{
+								"name": "JJ Doudizhu",
+								"value": 82328145
+							},
+							{
+								"name": "Landlord Poker",
+								"value": 207022751
+							},
+							{
+								"name": "QQMahjong",
+								"value": 96641439
+							}
+						]
+					},
+					{
+						"name": "Dressing Simulation Game",
+						"children": [{
+								"name": "Cloud clothes and feather clothes",
+								"value": 8991498
+							},
+							{
+								"name": "Miracle Nikki",
+								"value": 27368239
+							},
+							{
+								"name": "Shining Nikki",
+								"value": 61022102
+							}
+						]
+					},
+					{
+						"name": "Dungeon",
+						"children": [{
+								"name": "Runaway hero",
+								"value": 10494220
+							},
+							{
+								"name": "Stararc",
+								"value": 1547460
+							},
+							{
+								"name": "The Greedy Cave 2",
+								"value": 7700089
+							}
+						]
+					},
+					{
+						"name": "Fighting Game",
+						"children": [{
+								"name": "Allard's anger: Awakening",
+								"value": 3692405
+							},
+							{
+								"name": "Battle girl",
+								"value": 2819190
+							},
+							{
+								"name": "Bleach: Memories of Nobody Fighting",
+								"value": 6816607
+							},
+							{
+								"name": "Closers M",
+								"value": 2268857
+							},
+							{
+								"name": "hunter",
+								"value": 4611254
+							},
+							{
+								"name": "JX 3",
+								"value": 36861026
+							},
+							{
+								"name": "Naruto Mobile",
+								"value": 271898595
+							},
+							{
+								"name": "Soul Warrior",
+								"value": 1568311
+							},
+							{
+								"name": "The King of Fighters: Destiny",
+								"value": 32102664
+							},
+							{
+								"name": "The underground city pact",
+								"value": 1314007
+							},
+							{
+								"name": "Ultra Fighters",
+								"value": 1645352
+							},
+							{
+								"name": "We Fight",
+								"value": 2662366
+							}
+						]
+					},
+					{
+						"name": "FPS",
+						"children": [{
+								"name": "CrossFire",
+								"value": 321277642
+							},
+							{
+								"name": "We Fire",
+								"value": 3197557
+							}
+						]
+					},
+					{
+						"name": "FPS+MOBA",
+						"children": [{
+							"name": "Ace Force",
+							"value": 3263382
+						}]
+					},
+					{
+						"name": "idle game",
+						"children": [{
+								"name": "Idle Adventurers",
+								"value": 23121044
+							},
+							{
+								"name": "Idle Heroes",
+								"value": 142209831
+							},
+							{
+								"name": "Lost Decade",
+								"value": 18035381
+							},
+							{
+								"name": "Twinkling light",
+								"value": 2915197
+							}
+						]
+					},
+					{
+						"name": "imitating ancient palace intrigue",
+						"children": [{
+								"name": "Call Me Emperor",
+								"value": 17784507
+							},
+							{
+								"name": "Flowers In Forbidden City",
+								"value": 22189775
+							},
+							{
+								"name": "Hand tour of palace",
+								"value": 58145709
+							},
+							{
+								"name": "if time could stop at the moment when we first met",
+								"value": 13099490
+							},
+							{
+								"name": "Legend of Xi Fei",
+								"value": 22733629
+							},
+							{
+								"name": "Master Yipin",
+								"value": 1229224
+							},
+							{
+								"name": "Royal Chaos",
+								"value": 128898166
+							},
+							{
+								"name": "Top sesame official",
+								"value": 7575137
+							}
+						]
+					},
+					{
+						"name": "IO",
+						"children": [{
+							"name": "Battle of Balls",
+							"value": 48745029
+						}]
+					},
+					{
+						"name": "Legend",
+						"children": [{
+								"name": "Archangel Sword H5",
+								"value": 67164366
+							},
+							{
+								"name": "Authorization of Mu",
+								"value": 111299538
+							},
+							{
+								"name": "Legend of blue moon",
+								"value": 19353037
+							},
+							{
+								"name": "Legend of Mir II",
+								"value": 4828795
+							},
+							{
+								"name": "Legend of the ancient world",
+								"value": 1526838
+							},
+							{
+								"name": "Legend of the past",
+								"value": 1881685
+							},
+							{
+								"name": "Legendary mobile game version",
+								"value": 10498774
+							},
+							{
+								"name": "Legendary World 3D",
+								"value": 4862932
+							},
+							{
+								"name": "Lord of the City",
+								"value": 140988360
+							},
+							{
+								"name": "Micro end Legend - genuine Sand City abnormal PK legend hand tour",
+								"value": 1277435
+							},
+							{
+								"name": "MU Awakening",
+								"value": 202018680
+							},
+							{
+								"name": "MU Miracle",
+								"value": 12815050
+							},
+							{
+								"name": "MU: Origin",
+								"value": 7522824
+							},
+							{
+								"name": "Retro legend",
+								"value": 4670814
+							},
+							{
+								"name": "Storm land",
+								"value": 2441200
+							},
+							{
+								"name": "The dawn of dragon killing",
+								"value": 3985893
+							},
+							{
+								"name": "The origin of mirage",
+								"value": 2357981
+							},
+							{
+								"name": "The World of Legend",
+								"value": 7184187
+							},
+							{
+								"name": "Win the Imperial City",
+								"value": 1366758
+							}
+						]
+					},
+					{
+						"name": "Love Game",
+						"children": [{
+							"name": "Love and Producer",
+							"value": 93650784
+						}]
+					},
+					{
+						"name": "MOBA",
+						"children": [{
+								"name": "Dream of Three Kingdoms",
+								"value": 1666322
+							},
+							{
+								"name": "Honour of Kings",
+								"value": 2497824078
+							},
+							{
+								"name": "Inhuman Academy",
+								"value": 2700863
+							},
+							{
+								"name": "Onmyoji Arena",
+								"value": 25847314
+							}
+						]
+					},
+					{
+						"name": "Parkour",
+						"children": [{
+								"name": "Ninja Must Die 3",
+								"value": 106348869
+							},
+							{
+								"name": "WeChat Dash",
+								"value": 7500307
+							}
+						]
+					},
+					{
+						"name": "Pure tone dance",
+						"children": [{
+								"name": "Audition Online",
+								"value": 2791248
+							},
+							{
+								"name": "Momo Dancing",
+								"value": 4532955
+							},
+							{
+								"name": "QQ Dancer",
+								"value": 386021486
+							}
+						]
+					},
+					{
+						"name": "Race Game",
+						"children": [{
+								"name": "Asphalt 9: Legends",
+								"value": 1490708
+							},
+							{
+								"name": "CrazyRacing KartRider",
+								"value": 186189018
+							},
+							{
+								"name": "QQ Speed",
+								"value": 802403822
+							}
+						]
+					},
+					{
+						"name": "Real time card game RPG",
+						"children": [{
+								"name": "Azur Lane",
+								"value": 28204326
+							},
+							{
+								"name": "Blue oath",
+								"value": 1734442
+							},
+							{
+								"name": "Dragon Ball Z",
+								"value": 5119688
+							},
+							{
+								"name": "Law of Creation 2",
+								"value": 1516378
+							},
+							{
+								"name": "Sangokushi Taisen",
+								"value": 1531908
+							}
+						]
+					},
+					{
+						"name": "Real-Time Strategy Game",
+						"children": [{
+							"name": "Clash Royale",
+							"value": 83292607
+						}]
+					},
+					{
+						"name": "RPG Elimination Game",
+						"children": [{
+							"name": "Sdorica -sunset",
+							"value": 3244384
+						}]
+					},
+					{
+						"name": "Shooting Game",
+						"children": [{
+								"name": "Contra: Return",
+								"value": 250289661
+							},
+							{
+								"name": "My brave man",
+								"value": 1405935
+							},
+							{
+								"name": "Thunder Fighter",
+								"value": 1140430
+							}
+						]
+					},
+					{
+						"name": "Simulation Game",
+						"children": [{
+								"name": "Box Office Wonder",
+								"value": 15349213
+							},
+							{
+								"name": "Fallout Shelter Online",
+								"value": 5912480
+							},
+							{
+								"name": "Township",
+								"value": 2452382
+							}
+						]
+					},
+					{
+						"name": "SLG",
+						"children": [{
+								"name": "All Within The Boundaries",
+								"value": 347723064
+							},
+							{
+								"name": "Art of Conquest",
+								"value": 122833954
+							},
+							{
+								"name": "Battleship Commander",
+								"value": 4308870
+							},
+							{
+								"name": "Brutal Age: Horde Invasion",
+								"value": 50216415
+							},
+							{
+								"name": "Clash of Clans",
+								"value": 74642671
+							},
+							{
+								"name": "Clash of Kings",
+								"value": 12857433
+							},
+							{
+								"name": "Dragon overlord",
+								"value": 25386939
+							},
+							{
+								"name": "Galaxy Battleship",
+								"value": 14152066
+							},
+							{
+								"name": "Guns of Glory",
+								"value": 7464817
+							},
+							{
+								"name": "Heroes of Might and Magic",
+								"value": 34142005
+							},
+							{
+								"name": "King of Avalon: Dragon Warfare",
+								"value": 47902374
+							},
+							{
+								"name": "Kingdom Craft",
+								"value": 431953360
+							},
+							{
+								"name": "Last Empire-War Z",
+								"value": 1340992
+							},
+							{
+								"name": "Last Shelter: Survival",
+								"value": 52372842
+							},
+							{
+								"name": "Lords Mobile",
+								"value": 157877625
+							},
+							{
+								"name": "My dynasty",
+								"value": 4112849
+							},
+							{
+								"name": "My mission",
+								"value": 6010186
+							},
+							{
+								"name": "Red Alert OL",
+								"value": 238041325
+							},
+							{
+								"name": "Sangokushi Strategy",
+								"value": 146436733
+							},
+							{
+								"name": "Shin Sangokushi",
+								"value": 11143925
+							},
+							{
+								"name": "The game of power is coming",
+								"value": 39582423
+							},
+							{
+								"name": "Thirty six strategies",
+								"value": 21142845
+							},
+							{
+								"name": "Total Warfare � Epic Kingdoms",
+								"value": 141966943
+							},
+							{
+								"name": "War and Order",
+								"value": 2274856
+							}
+						]
+					},
+					{
+						"name": "Survival sandbox",
+						"children": [{
+								"name": "Last Day on Earth: Survival",
+								"value": 1476768
+							},
+							{
+								"name": "LifeAfter",
+								"value": 261777623
+							}
+						]
+					},
+					{
+						"name": "Tower Defense",
+						"children": [{
+								"name": "Arknights",
+								"value": 194188621
+							},
+							{
+								"name": "Master of the people 2",
+								"value": 5419606
+							}
+						]
+					},
+					{
+						"name": "TPS",
+						"children": [{
+							"name": "Girl Cafe Gun",
+							"value": 5069813
+						}]
+					},
+					{
+						"name": "Traditional Anipop",
+						"children": [{
+								"name": "Anipop",
+								"value": 287623339
+							},
+							{
+								"name": "Craz3 Match",
+								"value": 87026035
+							},
+							{
+								"name": "Jelly Blast",
+								"value": 39726715
+							}
+						]
+					},
+					{
+						"name": "Turn-Based Card RPG",
+						"children": [{
+								"name": "Age Of Magic",
+								"value": 3247354
+							},
+							{
+								"name": "Anecdotes of mountains and seas",
+								"value": 4894093
+							},
+							{
+								"name": "Calabash Brothers",
+								"value": 54089463
+							},
+							{
+								"name": "Chang'an fantasy painting",
+								"value": 5821986
+							},
+							{
+								"name": "Cloud dream four seasons song",
+								"value": 11970520
+							},
+							{
+								"name": "Crossing Void",
+								"value": 13645074
+							},
+							{
+								"name": "Dot Arena",
+								"value": 1155818
+							},
+							{
+								"name": "Dragon ball fight",
+								"value": 40871823
+							},
+							{
+								"name": "Fate/Grand Order",
+								"value": 288982141
+							},
+							{
+								"name": "Food Fantasy",
+								"value": 4823214
+							},
+							{
+								"name": "Food story",
+								"value": 14728102
+							},
+							{
+								"name": "Girl's Frontline",
+								"value": 9731658
+							},
+							{
+								"name": "Junior Three Kingdoms",
+								"value": 15347307
+							},
+							{
+								"name": "Junior Three Kingdoms 2",
+								"value": 14692117
+							},
+							{
+								"name": "Leader 2",
+								"value": 19513760
+							},
+							{
+								"name": "League of Angels - Paradise Land",
+								"value": 12294810
+							},
+							{
+								"name": "M;M: Elemental Guardians",
+								"value": 2246032
+							},
+							{
+								"name": "My hero College: entrance season",
+								"value": 1436597
+							},
+							{
+								"name": "OMG!Kingdoms! 2",
+								"value": 2848976
+							},
+							{
+								"name": "One Piece Burning Will",
+								"value": 104624222
+							},
+							{
+								"name": "One Punch Man",
+								"value": 49211604
+							},
+							{
+								"name": "Onmyoji",
+								"value": 579822484
+							},
+							{
+								"name": "Qiyuan goddess",
+								"value": 4492487
+							},
+							{
+								"name": "RAID: Shadow Legends",
+								"value": 2437017
+							},
+							{
+								"name": "Saint Seiya : Awakening",
+								"value": 151487141
+							},
+							{
+								"name": "Seven Knights",
+								"value": 2403127
+							},
+							{
+								"name": "SNK all star",
+								"value": 3626231
+							},
+							{
+								"name": "Soul Land New",
+								"value": 16696518
+							},
+							{
+								"name": "Summoner of the Gods",
+								"value": 1134415
+							},
+							{
+								"name": "Summoners War",
+								"value": 33349285
+							},
+							{
+								"name": "The King of Fighters' 98 Ultimate Match",
+								"value": 35528167
+							},
+							{
+								"name": "The road of a strong maritime King",
+								"value": 18347865
+							},
+							{
+								"name": "The story of the demon God",
+								"value": 7101269
+							},
+							{
+								"name": "Two Three Kingdoms: Turn-based",
+								"value": 42556282
+							},
+							{
+								"name": "Wang Qihang",
+								"value": 13715455
+							}
+						]
+					},
+					{
+						"name": "Turn-based MMORPG",
+						"children": [{
+								"name": "A journey to the West",
+								"value": 5101471
+							},
+							{
+								"name": "AskTao",
+								"value": 188725907
+							},
+							{
+								"name": "Cross Gate",
+								"value": 75903512
+							},
+							{
+								"name": "Fairy Tail: Magic Guide",
+								"value": 45399354
+							},
+							{
+								"name": "Fantasy Westward Journey",
+								"value": 1638774036
+							},
+							{
+								"name": "Fantasy Zhu Xian",
+								"value": 69111109
+							},
+							{
+								"name": "Fox Spirit Matchmaker",
+								"value": 7170533
+							},
+							{
+								"name": "Legend of the Three Kingdoms",
+								"value": 9604217
+							},
+							{
+								"name": "Naruto OL",
+								"value": 88032354
+							},
+							{
+								"name": "Return of the Condor Heroes 2",
+								"value": 69343234
+							},
+							{
+								"name": "Shenwu 4",
+								"value": 294524321
+							},
+							{
+								"name": "Stone Age M",
+								"value": 55975291
+							},
+							{
+								"name": "The Croods",
+								"value": 35369970
+							},
+							{
+								"name": "Westward Journey Online",
+								"value": 615496082
+							},
+							{
+								"name": "Xuan-Yuan Sword Mobile",
+								"value": 8233164
+							}
+						]
+					},
+					{
+						"name": "Turn-Based Strategy Game",
+						"children": [{
+								"name": "Hearthstone: Heroes of Warcraft",
+								"value": 97906577
+							},
+							{
+								"name": "Hero Kill",
+								"value": 4048391
+							},
+							{
+								"name": "Sanguosha",
+								"value": 22756707
+							},
+							{
+								"name": "Shadowverse",
+								"value": 1524865
+							},
+							{
+								"name": "Yin Yang master: Baiwen brand",
+								"value": 4624040
+							}
+						]
+					},
+					{
+						"name": "Vehicle simulation",
+						"children": [{
+							"name": "We Fly",
+							"value": 44751592
+						}]
+					},
+					{
+						"name": "Wargame",
+						"children": [{
+								"name": "Langrisser",
+								"value": 259604072
+							},
+							{
+								"name": "Tale of Wuxia",
+								"value": 12976779
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Japan",
+				"children": [{
+						"name": "Action Game",
+						"children": [{
+								"name": "Captain Tsubasa: Dream Team",
+								"value": 44301435
+							},
+							{
+								"name": "eFootball PES 2020",
+								"value": 109280783
+							},
+							{
+								"name": "Jikkyou Pawafuru Puroyakyu",
+								"value": 213490052
+							},
+							{
+								"name": "Jikkyou Powerful Soccer",
+								"value": 43552813
+							},
+							{
+								"name": "Mingol",
+								"value": 5861595
+							},
+							{
+								"name": "PES CARD COLLECTION",
+								"value": 31574735
+							},
+							{
+								"name": "PES Collection",
+								"value": 19046346
+							},
+							{
+								"name": "Professional Baseball Spirits A",
+								"value": 254774293
+							},
+							{
+								"name": "Sakatsuku Road to theWorld",
+								"value": 24919389
+							},
+							{
+								"name": "White Cat Tennis",
+								"value": 38877291
+							}
+						]
+					},
+					{
+						"name": "Action Real-Time MMORPG",
+						"children": [{
+								"name": "Alliance X Empire",
+								"value": 6477464
+							},
+							{
+								"name": "Black Desert",
+								"value": 71928712
+							},
+							{
+								"name": "Blade ; Soul: Revolution",
+								"value": 3815424
+							},
+							{
+								"name": "FINAL FANTASY EXPLORERS FORCE",
+								"value": 1106881
+							},
+							{
+								"name": "Lineage 2 Revolution",
+								"value": 162928611
+							},
+							{
+								"name": "Lineage M",
+								"value": 5887849
+							},
+							{
+								"name": "Ragnarok M : Eternal Love",
+								"value": 20583854
+							},
+							{
+								"name": "TALION",
+								"value": 7831199
+							},
+							{
+								"name": "The Continent of Wind",
+								"value": 33245957
+							}
+
+						]
+					},
+					{
+						"name": "AR+LBS",
+						"children": [{
+								"name": "Dragon Quest Walk",
+								"value": 116611702
+							},
+							{
+								"name": "Pokemon GO",
+								"value": 280593329
+							}
+						]
+					},
+					{
+						"name": "ARPG",
+						"children": [{
+								"name": "BLEACH Brave Souls",
+								"value": 13119466
+							},
+							{
+								"name": "Colopl Rune Story",
+								"value": 145583563
+							},
+							{
+								"name": "Dragalia Lost",
+								"value": 25941318
+							},
+							{
+								"name": "Dynasty Warriors: Unleashed",
+								"value": 7483498
+							},
+							{
+								"name": "FANTASY LIFE ONLINE",
+								"value": 3714864
+							},
+							{
+								"name": "Grimmes Echoes",
+								"value": 1522261
+							},
+							{
+								"name": "GUNDAM BATTLE: GUNPLA WARFARE",
+								"value": 9396571
+							},
+							{
+								"name": "Honkai Impact 3",
+								"value": 27844338
+							},
+							{
+								"name": "ONE PIECE Bounty Rush",
+								"value": 4750120
+							},
+							{
+								"name": "ONE PIECE Thousand Storm",
+								"value": 73241641
+							},
+							{
+								"name": "Sword Art Online Memory Defrag",
+								"value": 18837648
+							}
+						]
+					},
+					{
+						"name": "Asymmetric Battle Arena",
+						"children": [{
+							"name": "Identity V",
+							"value": 70212782
+						}]
+					},
+					{
+						"name": "Battle royale game",
+						"children": [{
+								"name": "Knives Out",
+								"value": 609877012
+							},
+							{
+								"name": "PUBG MOBILE",
+								"value": 86220879
+							}
+						]
+					},
+					{
+						"name": "Bead Game",
+						"children": [{
+							"name": "Puzzle ; Dragons",
+							"value": 539399927
+						}]
+					},
+					{
+						"name": "Business Elimination Game",
+						"children": [{
+								"name": "Gardenscapes - New Acres",
+								"value": 57479950
+							},
+							{
+								"name": "Homescapes",
+								"value": 54609226
+							},
+							{
+								"name": "Matchington Mansion",
+								"value": 18775669
+							},
+							{
+								"name": "Pokopang Town",
+								"value": 6568777
+							},
+							{
+								"name": "Stand My Heroes",
+								"value": 3545296
+							}
+						]
+					},
+					{
+						"name": "Casual Game",
+						"children": [{
+								"name": "Crane Game Toreba!",
+								"value": 8619138
+							},
+							{
+								"name": "Fishing station",
+								"value": 14236236
+							}
+						]
+					},
+					{
+						"name": "Chess and cards",
+						"children": [{
+							"name": "Reverse Othellonia",
+							"value": 48190170
+						}]
+					},
+					{
+						"name": "Dressing Simulation Game",
+						"children": [{
+							"name": "Miracle Nikki",
+							"value": 4127852
+						}]
+					},
+					{
+						"name": "Dungeon",
+						"children": [{
+							"name": "Archero",
+							"value": 4163432
+						}]
+					},
+					{
+						"name": "Fighting Game",
+						"children": [{
+								"name": "MapleStory M",
+								"value": 12720031
+							},
+							{
+								"name": "THE KING OF FIGHTERS ALLSTAR",
+								"value": 11512997
+							},
+							{
+								"name": "Tianhua hundred Swords: Chop",
+								"value": 1724895
+							}
+						]
+					},
+					{
+						"name": "FPS",
+						"children": [{
+								"name": "Alice Gear Aegis",
+								"value": 8827608
+							},
+							{
+								"name": "Call of Duty: Mobile",
+								"value": 13239802
+							}
+						]
+					},
+					{
+						"name": "idle game",
+						"children": [{
+							"name": "Girls Chronicle",
+							"value": 120340286
+						}]
+					},
+					{
+						"name": "Idol Simulation Game",
+						"children": [{
+								"name": "A3!",
+								"value": 60971969
+							},
+							{
+								"name": "BanG Dream",
+								"value": 179004415
+							},
+							{
+								"name": "Ensemble Stars",
+								"value": 67669262
+							},
+							{
+								"name": "Hisaka 46 Unis on air",
+								"value": 10566646
+							},
+							{
+								"name": "IDOLiSH 7",
+								"value": 42279093
+							},
+							{
+								"name": "Love Live! School Idol Festival",
+								"value": 60826768
+							},
+							{
+								"name": "lovelive! School Idol Festival ALL STARS",
+								"value": 18400426
+							},
+							{
+								"name": "Nogizaka46 Rhythm Festival",
+								"value": 5721437
+							},
+							{
+								"name": "Revue Starlight Re LIVE",
+								"value": 6536564
+							},
+							{
+								"name": "THE IDOLM@STER Million Live! Theater Days",
+								"value": 88563735
+							},
+							{
+								"name": "THE IDOLM@STER Shinycolors",
+								"value": 7826906
+							},
+							{
+								"name": "THE IDOLM@STER Starlight Stage",
+								"value": 204424816
+							},
+							{
+								"name": "The Idolmaster: SideM Live on St@ge!",
+								"value": 8087155
+							},
+							{
+								"name": "Utano Prince Sama Shining Live",
+								"value": 18819296
+							}
+						]
+					},
+					{
+						"name": "imitating ancient palace intrigue",
+						"children": [{
+								"name": "Be The King",
+								"value": 20564586
+							},
+							{
+								"name": "Becoming famous in China and the Warring States Period",
+								"value": 2555044
+							},
+							{
+								"name": "Call Me Emperor",
+								"value": 1046194
+							},
+							{
+								"name": "Emperor And Beauties",
+								"value": 13511482
+							}
+						]
+					},
+					{
+						"name": "IO",
+						"children": [{
+							"name": "Brawl Stars",
+							"value": 12451671
+						}]
+					},
+					{
+						"name": "Love Game",
+						"children": [{
+								"name": "Dream kingdom and 100 princes in deep sleep",
+								"value": 5953339
+							},
+							{
+								"name": "Fall in love with NEWS",
+								"value": 14631337
+							},
+							{
+								"name": "Ikemen Sengoku: Romances Across Time",
+								"value": 1462827
+							},
+							{
+								"name": "NOGIKOI",
+								"value": 36957803
+							}
+						]
+					},
+					{
+						"name": "MOBA",
+						"children": [{
+							"name": "#Compass",
+							"value": 81149177
+						}]
+					},
+					{
+						"name": "Other simulations",
+						"children": [{
+							"name": "Derby Stallion Masters",
+							"value": 4474737
+						}]
+					},
+					{
+						"name": "Parkour",
+						"children": [{
+							"name": "Everything in its right place",
+							"value": 1337015
+						}]
+					},
+					{
+						"name": "Pinball Game",
+						"children": [{
+								"name": "Kinnikuman Muscle shot",
+								"value": 1172964
+							},
+							{
+								"name": "LINE Bubble 2",
+								"value": 41253042
+							},
+							{
+								"name": "Monster Strike",
+								"value": 1031679059
+							},
+							{
+								"name": "WORLD FLIPPER",
+								"value": 7033997
+							}
+						]
+					},
+					{
+						"name": "Pure tone dance",
+						"children": [{
+								"name": "Rising beat, the new tennis prince",
+								"value": 3274489
+							},
+							{
+								"name": "Uta MACROSS SmartPhone De CULTURE",
+								"value": 2128189
+							}
+						]
+					},
+					{
+						"name": "Race Game",
+						"children": [{
+								"name": "Drift Spirits",
+								"value": 10628265
+							},
+							{
+								"name": "Mario Kart Tour",
+								"value": 15330898
+							}
+						]
+					},
+					{
+						"name": "Real time card game RPG",
+						"children": [{
+								"name": "Azur Lane",
+								"value": 69599025
+							},
+							{
+								"name": "Blade Exroad",
+								"value": 4498719
+							},
+							{
+								"name": "CARAVAN STORIES",
+								"value": 1450982
+							},
+							{
+								"name": "Kingdom Seven Flags",
+								"value": 15093082
+							},
+							{
+								"name": "King's Raid",
+								"value": 47423303
+							},
+							{
+								"name": "Last Idea",
+								"value": 1892004
+							},
+							{
+								"name": "Merck Storia",
+								"value": 1260995
+							},
+							{
+								"name": "Mirage Memorial",
+								"value": 1002090
+							},
+							{
+								"name": "OverHit",
+								"value": 5346784
+							},
+							{
+								"name": "Pokemon Masters",
+								"value": 11985439
+							},
+							{
+								"name": "Princess Connect! Re:Dive",
+								"value": 138049196
+							},
+							{
+								"name": "Saint Seiya Cosmo Fantasy",
+								"value": 3977493
+							},
+							{
+								"name": "Tales of The Rays",
+								"value": 28814476
+							},
+							{
+								"name": "That Time I Got Reincarnated as a Slime",
+								"value": 1304594
+							},
+							{
+								"name": "The Magnificent Kotobuki",
+								"value": 1877162
+							}
+						]
+					},
+					{
+						"name": "Real-Time Strategy Game",
+						"children": [{
+								"name": "Castle;Dragon",
+								"value": 35430781
+							},
+							{
+								"name": "Clash Royale",
+								"value": 46921117
+							},
+							{
+								"name": "DRAGON BALL LEGENDS",
+								"value": 85120063
+							},
+							{
+								"name": "The Battle Cats",
+								"value": 60182095
+							}
+						]
+					},
+					{
+						"name": "RPG Elimination Game",
+						"children": [{
+								"name": "JUMPTI Heroes",
+								"value": 17641970
+							},
+							{
+								"name": "Pocolon Dungeons",
+								"value": 1283004
+							},
+							{
+								"name": "Sdorica -sunset",
+								"value": 1819860
+							},
+							{
+								"name": "The Story of KEYAKIZAKA46",
+								"value": 8664080
+							},
+							{
+								"name": "YO-KAI WATCH Wibble Wobble",
+								"value": 93315144
+							}
+						]
+					},
+					{
+						"name": "RPG+LBS",
+						"children": [{
+							"name": "Eki Memo Station Memories",
+							"value": 4422746
+						}]
+					},
+					{
+						"name": "SameGame",
+						"children": [{
+							"name": "Toon Blast",
+							"value": 20475900
+						}]
+					},
+					{
+						"name": "Simulation Game",
+						"children": [{
+								"name": "Animal Crossing: Pocket Camp",
+								"value": 46801969
+							},
+							{
+								"name": "Township",
+								"value": 11899367
+							}
+						]
+					},
+					{
+						"name": "SLG",
+						"children": [{
+								"name": "Age of Three Kingdoms",
+								"value": 17310085
+							},
+							{
+								"name": "All Within The Boundaries",
+								"value": 40079672
+							},
+							{
+								"name": "Clash of Clans",
+								"value": 18607944
+							},
+							{
+								"name": "Clash of Kings",
+								"value": 24718734
+							},
+							{
+								"name": "Crystal of Re:union",
+								"value": 2691956
+							},
+							{
+								"name": "Empire of Warships",
+								"value": 47327883
+							},
+							{
+								"name": "Final Fantasy XV: A New Empire",
+								"value": 81324276
+							},
+							{
+								"name": "King of Avalon: Dragon Warfare",
+								"value": 14149758
+							},
+							{
+								"name": "Kingdom Craft",
+								"value": 3352204
+							},
+							{
+								"name": "Last Shelter: Survival",
+								"value": 1414947
+							},
+							{
+								"name": "Lords Mobile",
+								"value": 28533753
+							},
+							{
+								"name": "Mafia City",
+								"value": 127587458
+							},
+							{
+								"name": "My Country",
+								"value": 18393472
+							},
+							{
+								"name": "My country (Warring States period)",
+								"value": 9660069
+							},
+							{
+								"name": "Shin Sangokushi",
+								"value": 48102457
+							},
+							{
+								"name": "Total Warfare � Epic Kingdoms",
+								"value": 31121068
+							},
+							{
+								"name": "Wild hope of overlord",
+								"value": 3894942
+							}
+						]
+					},
+					{
+						"name": "Solving puzzles",
+						"children": [{
+							"name": "Hidden City: Mystery of Shadows",
+							"value": 11422329
+						}]
+					},
+					{
+						"name": "Survival sandbox",
+						"children": [{
+							"name": "LifeAfter",
+							"value": 24117206
+						}]
+					},
+					{
+						"name": "Traditional Anipop",
+						"children": [{
+								"name": "Candy Crush Soda Saga",
+								"value": 4346907
+							},
+							{
+								"name": "Disney Tsum Tsum",
+								"value": 199380684
+							},
+							{
+								"name": "Disney Tsum Tsum Land",
+								"value": 18732760
+							},
+							{
+								"name": "LINE POP2",
+								"value": 43725952
+							},
+							{
+								"name": "PokoPoko",
+								"value": 112289329
+							},
+							{
+								"name": "Puyopuyo!!Quest",
+								"value": 36483503
+							}
+						]
+					},
+					{
+						"name": "Turn-Based Card RPG",
+						"children": [{
+								"name": "A Certain Magical Index A Certain Magical Index",
+								"value": 7989182
+							},
+							{
+								"name": "Abyss Horizon",
+								"value": 1476518
+							},
+							{
+								"name": "Alternative Girls",
+								"value": 3683120
+							},
+							{
+								"name": "Another Eden",
+								"value": 35736759
+							},
+							{
+								"name": "Atelier Online",
+								"value": 1539451
+							},
+							{
+								"name": "Black Knight and white Lord",
+								"value": 2681877
+							},
+							{
+								"name": "Boku ; Dragons",
+								"value": 13883122
+							},
+							{
+								"name": "Brown Dust",
+								"value": 15734381
+							},
+							{
+								"name": "Chain Chronicle",
+								"value": 3543235
+							},
+							{
+								"name": "Chivalrous and arrogant",
+								"value": 5493465
+							},
+							{
+								"name": "Cinderella Nine in August",
+								"value": 1326784
+							},
+							{
+								"name": "Cryptract",
+								"value": 7246673
+							},
+							{
+								"name": "DanMachi Memoria",
+								"value": 11252416
+							},
+							{
+								"name": "Destiny Child",
+								"value": 5030597
+							},
+							{
+								"name": "Digimon ReArise",
+								"value": 1918991
+							},
+							{
+								"name": "DISSIDIA FINAL FANTASY OO",
+								"value": 35677368
+							},
+							{
+								"name": "Dragon Ball Z Dokkan Battle",
+								"value": 363940359
+							},
+							{
+								"name": "Dragon Egg",
+								"value": 39110449
+							},
+							{
+								"name": "Dragon Quest Monsters Super Light",
+								"value": 72404576
+							},
+							{
+								"name": "Dragon Quest Monsters Terry's Wonderland SP",
+								"value": 3098165
+							},
+							{
+								"name": "Dragon Quest of the Stars",
+								"value": 132715219
+							},
+							{
+								"name": "Dx2 Shin Megami Tensei Liberation",
+								"value": 12608291
+							},
+							{
+								"name": "Epic Seven",
+								"value": 6107250
+							},
+							{
+								"name": "Fate/Grand Order",
+								"value": 923219160
+							},
+							{
+								"name": "FINAL FANTASY BRAVE EXVIUS",
+								"value": 67688607
+							},
+							{
+								"name": "FINAL FANTASY Record Keeper",
+								"value": 65622827
+							},
+							{
+								"name": "Gang Road Joker",
+								"value": 1808755
+							},
+							{
+								"name": "Girl's Frontline",
+								"value": 20931404
+							},
+							{
+								"name": "GOD EATER RESONANT OPS",
+								"value": 1106380
+							},
+							{
+								"name": "GranBlue Fantasy",
+								"value": 252013345
+							},
+							{
+								"name": "Grand Summoners",
+								"value": 2988610
+							},
+							{
+								"name": "Gundam Wars",
+								"value": 2394230
+							},
+							{
+								"name": "Hortensia Saga",
+								"value": 5068417
+							},
+							{
+								"name": "Idola Phantasy Star Saga",
+								"value": 1305148
+							},
+							{
+								"name": "Kai-ri-Sei Million Arthur",
+								"value": 1325112
+							},
+							{
+								"name": "Kemono Friends 3",
+								"value": 998100
+							},
+							{
+								"name": "KINGDOM HEARTS Unchained ?",
+								"value": 1614837
+							},
+							{
+								"name": "Kingdom Ran -The Road to Unification of the World-",
+								"value": 3148388
+							},
+							{
+								"name": "Kirara Fantasia",
+								"value": 3130445
+							},
+							{
+								"name": "Kotodaman",
+								"value": 1322351
+							},
+							{
+								"name": "Last Cloudia",
+								"value": 7838670
+							},
+							{
+								"name": "Last Period",
+								"value": 1198451
+							},
+							{
+								"name": "Logres of Swords and Sorcery: Goddess of Ancient",
+								"value": 43349253
+							},
+							{
+								"name": "Magia Record",
+								"value": 70998251
+							},
+							{
+								"name": "Makai Wars",
+								"value": 1179057
+							},
+							{
+								"name": "MASS FOR THE DEAD",
+								"value": 3091523
+							},
+							{
+								"name": "Megiddo 72",
+								"value": 18860143
+							},
+							{
+								"name": "MITRASPHERE",
+								"value": 1197450
+							},
+							{
+								"name": "Mobile team",
+								"value": 1855685
+							},
+							{
+								"name": "Naruto Shinobi Collection",
+								"value": 2937909
+							},
+							{
+								"name": "One Piece Treasure Cruise",
+								"value": 87353509
+							},
+							{
+								"name": "Project Babel",
+								"value": 1352710
+							},
+							{
+								"name": "Romancing Saga Reuniverse",
+								"value": 92208457
+							},
+							{
+								"name": "Rulong Online",
+								"value": 1245034
+							},
+							{
+								"name": "School Girl Strikers",
+								"value": 16874011
+							},
+							{
+								"name": "Sengoku Enbu KIZNA",
+								"value": 159113468
+							},
+							{
+								"name": "Seven Knights",
+								"value": 1290264
+							},
+							{
+								"name": "SHINOBI MASTER -SENRAN KAGURA NEW LINK",
+								"value": 1573118
+							},
+							{
+								"name": "SINoALICE",
+								"value": 105696117
+							},
+							{
+								"name": "Soen No Kantai",
+								"value": 1135997
+							},
+							{
+								"name": "STAR OCEAN",
+								"value": 11038265
+							},
+							{
+								"name": "Summoners War",
+								"value": 68847861
+							},
+							{
+								"name": "SUPER GUNDAM ROYALE",
+								"value": 21264775
+							},
+							{
+								"name": "Sword Art Online Alicization Brading",
+								"value": 5021502
+							},
+							{
+								"name": "Tales of Asteria",
+								"value": 4353396
+							},
+							{
+								"name": "Terrier saga",
+								"value": 1546118
+							},
+							{
+								"name": "The devil's world",
+								"value": 3962338
+							},
+							{
+								"name": "The King of Fighters' 98 Ultimate Match",
+								"value": 56036764
+							},
+							{
+								"name": "The Seven Deadly Sins: Hikari to Yami no Grand Cross",
+								"value": 72492244
+							},
+							{
+								"name": "The successor of Beidou boxing comes again",
+								"value": 7720723
+							},
+							{
+								"name": "The tiger of cycling",
+								"value": 1884679
+							},
+							{
+								"name": "The World of Mystic Wiz",
+								"value": 51036827
+							},
+							{
+								"name": "Toji no Miko: Kizamishi Issen no Tomoshibi",
+								"value": 2250161
+							},
+							{
+								"name": "Touken Ranbu",
+								"value": 19156059
+							},
+							{
+								"name": "Unison League",
+								"value": 9363585
+							},
+							{
+								"name": "Utawarerumono Lost Flag",
+								"value": 5380176
+							},
+							{
+								"name": "Valkyrie Connect",
+								"value": 19352500
+							},
+							{
+								"name": "XD unlimited",
+								"value": 32542325
+							},
+							{
+								"name": "Yu Yu Hakusho",
+								"value": 2030945
+							}
+						]
+					},
+					{
+						"name": "Turn-based MMORPG",
+						"children": [{
+							"name": "Magatsu Wahrheit",
+							"value": 3515107
+						}]
+					},
+					{
+						"name": "Turn-Based Strategy Game",
+						"children": [{
+								"name": "Dragon Quest Rivals",
+								"value": 5738386
+							},
+							{
+								"name": "DUEL MASTERS PLAY'S",
+								"value": 5106227
+							},
+							{
+								"name": "Shadowverse",
+								"value": 89185212
+							},
+							{
+								"name": "Yu-Gi-Oh! Duel Links",
+								"value": 86251044
+							}
+						]
+					},
+					{
+						"name": "Wargame",
+						"children": [{
+								"name": "Arc The Lad R",
+								"value": 5816649
+							},
+							{
+								"name": "Final Fantasy Brave Exvius War Of The Visions",
+								"value": 14108692
+							},
+							{
+								"name": "Fire Emblem Heroes",
+								"value": 72929792
+							},
+							{
+								"name": "For Whom the Alchemist Exists",
+								"value": 36843519
+							},
+							{
+								"name": "Langrisser",
+								"value": 19818474
+							},
+							{
+								"name": "Phantom Of the Kill",
+								"value": 22899933
+							},
+							{
+								"name": "Summons Board",
+								"value": 2196206
+							},
+							{
+								"name": "Super Robot Wars DD",
+								"value": 2428583
+							},
+							{
+								"name": "Super Robot Wars X-?",
+								"value": 6411005
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Korea",
+				"children": [{
+						"name": "Action Game",
+						"children": [{
+								"name": "Boxing Star",
+								"value": 845478
+							},
+							{
+								"name": "CMM Champions Manager Mobasaka",
+								"value": 612600
+							},
+							{
+								"name": "Com2Us Pro Baseball 2018",
+								"value": 6925367
+							},
+							{
+								"name": "Com2uS Pro Baseball for Manager Season 3",
+								"value": 294247
+							},
+							{
+								"name": "eFootball PES 2020",
+								"value": 1156364
+							},
+							{
+								"name": "Fever Basketball",
+								"value": 1009158
+							},
+							{
+								"name": "FIFA ONLINE 3 M",
+								"value": 4152134
+							},
+							{
+								"name": "FIFA ONLINE 4 M",
+								"value": 29642794
+							},
+							{
+								"name": "FIFA Soccer",
+								"value": 107005
+							},
+							{
+								"name": "Free Style 2: Flying Dunk",
+								"value": 595249
+							},
+							{
+								"name": "Full Count 2 KBO",
+								"value": 11252821
+							},
+							{
+								"name": "Golf Clash",
+								"value": 38805
+							},
+							{
+								"name": "MLB 9 Innings 18",
+								"value": 2457577
+							},
+							{
+								"name": "MLB Perfect Inning Live",
+								"value": 849843
+							},
+							{
+								"name": "Mobasaka Ultimate Football Club",
+								"value": ""
+							},
+							{
+								"name": "Pro Baseball H2",
+								"value": 961732
+							},
+							{
+								"name": "Professional baseball superstar",
+								"value": 317504
+							},
+							{
+								"name": "Soccer Spirits",
+								"value": 29768
+							}
+						]
+					},
+					{
+						"name": "Action Real-Time MMORPG",
+						"children": [{
+								"name": "Alliance X Empire",
+								"value": 4240821
+							},
+							{
+								"name": "ambition",
+								"value": 322189
+							},
+							{
+								"name": "Amor M",
+								"value": 358425
+							},
+							{
+								"name": "Angel Era",
+								"value": 200980
+							},
+							{
+								"name": "Angelic ministry",
+								"value": 403237
+							},
+							{
+								"name": "ARKA",
+								"value": 949792
+							},
+							{
+								"name": "Awakening Of Dragon",
+								"value": 489182
+							},
+							{
+								"name": "Black Desert",
+								"value": 77702778
+							},
+							{
+								"name": "Black world",
+								"value": 699817
+							},
+							{
+								"name": "Blade ; Soul: Revolution",
+								"value": 49223178
+							},
+							{
+								"name": "Burning: Magical Sword",
+								"value": 2926553
+							},
+							{
+								"name": "Cabal Mobile",
+								"value": ""
+							},
+							{
+								"name": "Cheonae New Book",
+								"value": 259564
+							},
+							{
+								"name": "Cool",
+								"value": ""
+							},
+							{
+								"name": "Crasher: Origin",
+								"value": 3587856
+							},
+							{
+								"name": "Dark Eden M",
+								"value": 1787701
+							},
+							{
+								"name": "Dark Legend",
+								"value": 393838
+							},
+							{
+								"name": "Demon Seals",
+								"value": 85844
+							},
+							{
+								"name": "DX: War of the New Century",
+								"value": 471159
+							},
+							{
+								"name": "Enquire from the gods",
+								"value": 1459124
+							},
+							{
+								"name": "EOS Red",
+								"value": ""
+							},
+							{
+								"name": "Eternal Light",
+								"value": 2501613
+							},
+							{
+								"name": "Eternity: the Origin of Fate",
+								"value": 1276037
+							},
+							{
+								"name": "Expeditionary hand tour",
+								"value": 3400
+							},
+							{
+								"name": "Fengyun 2",
+								"value": 7940
+							},
+							{
+								"name": "Fire Like the Song",
+								"value": 69837
+							},
+							{
+								"name": "Fox",
+								"value": 124132
+							},
+							{
+								"name": "Ghost",
+								"value": 440568
+							},
+							{
+								"name": "Ghost language",
+								"value": 523802
+							},
+							{
+								"name": "Glory by U.LU",
+								"value": 2134637
+							},
+							{
+								"name": "God Chronicle",
+								"value": 26981
+							},
+							{
+								"name": "Hand tour in Shumen",
+								"value": 29443
+							},
+							{
+								"name": "Hit Zombie-Idle Zombie Shooter",
+								"value": ""
+							},
+							{
+								"name": "Hot blooded sword",
+								"value": 241395
+							},
+							{
+								"name": "Hundred Soul",
+								"value": 1218816
+							},
+							{
+								"name": "Hundreds of thousands of red swords",
+								"value": 96716
+							},
+							{
+								"name": "I am MT 4",
+								"value": 468773
+							},
+							{
+								"name": "Icarus M",
+								"value": 1290814
+							},
+							{
+								"name": "Islands Mobile",
+								"value": 28448
+							},
+							{
+								"name": "JX online",
+								"value": 2005076
+							},
+							{
+								"name": "Kaiser",
+								"value": 576861
+							},
+							{
+								"name": "King of Kings",
+								"value": 6126935
+							},
+							{
+								"name": "Lignus Continental Electric",
+								"value": 17594
+							},
+							{
+								"name": "Lineage 2",
+								"value": 5237969
+							},
+							{
+								"name": "Lineage 2 Revolution",
+								"value": 76091187
+							},
+							{
+								"name": "Lineage M",
+								"value": 75777373
+							},
+							{
+								"name": "Lumia Saga",
+								"value": 336500
+							},
+							{
+								"name": "Luna M",
+								"value": 128151
+							},
+							{
+								"name": "Luna's Fate",
+								"value": 419058
+							},
+							{
+								"name": "Millennial Jiae M",
+								"value": 608780
+							},
+							{
+								"name": "Moonlight Sculptor",
+								"value": 2959876
+							},
+							{
+								"name": "Musou Glory",
+								"value": 545362
+							},
+							{
+								"name": "New Jianghu",
+								"value": ""
+							},
+							{
+								"name": "Nine Regions Youxia Legend",
+								"value": 3562777
+							},
+							{
+								"name": "Noblesse M",
+								"value": 86972
+							},
+							{
+								"name": "Novoland the Castle in the Sky",
+								"value": 505591
+							},
+							{
+								"name": "Pacheon: Those who become gods",
+								"value": 2282766
+							},
+							{
+								"name": "Peerless martial arts",
+								"value": ""
+							},
+							{
+								"name": "Perfect World",
+								"value": 353757
+							},
+							{
+								"name": "Ragnarok assaulted by Urachacha",
+								"value": 228215
+							},
+							{
+								"name": "Ragnarok M : Eternal Love",
+								"value": 13693087
+							},
+							{
+								"name": "Raven",
+								"value": 1325095
+							},
+							{
+								"name": "Rohan M",
+								"value": 2047136
+							},
+							{
+								"name": "Royal Blood",
+								"value": 230100
+							},
+							{
+								"name": "SIGNAL",
+								"value": 316382
+							},
+							{
+								"name": "Spirit Wish",
+								"value": 1446930
+							},
+							{
+								"name": "Sword and contract",
+								"value": 351719
+							},
+							{
+								"name": "Sword dance of the wind",
+								"value": 110601
+							},
+							{
+								"name": "Sword Kingdom",
+								"value": 133149
+							},
+							{
+								"name": "Taigu Fengmo record",
+								"value": 772005
+							},
+							{
+								"name": "TALION",
+								"value": 421985
+							},
+							{
+								"name": "TERA Classic",
+								"value": 1789390
+							},
+							{
+								"name": "Tera M",
+								"value": 2130852
+							},
+							{
+								"name": "The Continent of Wind",
+								"value": 6424574
+							},
+							{
+								"name": "The Epoch of Eternity",
+								"value": 1943256
+							},
+							{
+								"name": "The Kunlun Ruins",
+								"value": 969460
+							},
+							{
+								"name": "The Rulers",
+								"value": 179006
+							},
+							{
+								"name": "Traha",
+								"value": 3724090
+							},
+							{
+								"name": "Twelve thousand M",
+								"value": ""
+							},
+							{
+								"name": "V4",
+								"value": 3696696
+							},
+							{
+								"name": "Yokai Tamer",
+								"value": 487012
+							},
+							{
+								"name": "Yulgang Mobile",
+								"value": 2800201
+							}
+						]
+					},
+					{
+						"name": "AR+LBS",
+						"children": [{
+							"name": "Pokemon GO",
+							"value": 4113565
+						}]
+					},
+					{
+						"name": "ARPG",
+						"children": [{
+								"name": "Blade 2",
+								"value": 593140
+							},
+							{
+								"name": "Bleach: Memories of Nobody",
+								"value": 1730415
+							},
+							{
+								"name": "City of Forever 7 Days",
+								"value": 1693871
+							},
+							{
+								"name": "Dark Avenger 3",
+								"value": 756775
+							},
+							{
+								"name": "Dragon Nest",
+								"value": 1431704
+							},
+							{
+								"name": "El Chronicle",
+								"value": 275899
+							},
+							{
+								"name": "Honkai Impact 3",
+								"value": 8880032
+							},
+							{
+								"name": "MARVEL Future Fight",
+								"value": 10488069
+							},
+							{
+								"name": "Samurai Spirits",
+								"value": 80545
+							},
+							{
+								"name": "The Soul of Hunter",
+								"value": 183512
+							},
+							{
+								"name": "Three Kingdoms Blade",
+								"value": 717713
+							}
+						]
+					},
+					{
+						"name": "Asymmetric Battle Arena",
+						"children": [{
+							"name": "Identity V",
+							"value": 1907209
+						}]
+					},
+					{
+						"name": "Battle royale game",
+						"children": [{
+							"name": "PUBG MOBILE",
+							"value": 13794392
+						}]
+					},
+					{
+						"name": "Bead Game",
+						"children": [{
+							"name": "Puzzle ; Dragons",
+							"value": 151224
+						}]
+					},
+					{
+						"name": "Business Elimination Game",
+						"children": [{
+								"name": "EVERYTOWN",
+								"value": 338795
+							},
+							{
+								"name": "Friends Tower",
+								"value": 809416
+							},
+							{
+								"name": "Friends Town",
+								"value": 1575101
+							},
+							{
+								"name": "Gardenscapes - New Acres",
+								"value": 4486174
+							},
+							{
+								"name": "Homescapes",
+								"value": 5951265
+							},
+							{
+								"name": "We Bare Bears - The Puzzle",
+								"value": 6047789
+							}
+						]
+					},
+					{
+						"name": "Casual Game",
+						"children": [{
+								"name": "Angry Birds 2",
+								"value": 288920
+							},
+							{
+								"name": "Everybody's Marble",
+								"value": 33090996
+							},
+							{
+								"name": "Fishing Strike",
+								"value": 451193
+							},
+							{
+								"name": "Friends Marble",
+								"value": 6817524
+							},
+							{
+								"name": "Snoopy: Spot the Difference",
+								"value": 78164
+							}
+						]
+					},
+					{
+						"name": "Chess and cards",
+						"children": [{
+								"name": "Anipang Matgo",
+								"value": ""
+							},
+							{
+								"name": "Anipang Poker",
+								"value": ""
+							},
+							{
+								"name": "Hangame New Matgo",
+								"value": ""
+							},
+							{
+								"name": "Hangame Poker",
+								"value": 1250658
+							},
+							{
+								"name": "Net stone Poker",
+								"value": ""
+							},
+							{
+								"name": "Pmang New Matgo",
+								"value": 687813
+							},
+							{
+								"name": "Pmang Sutda",
+								"value": 345613
+							},
+							{
+								"name": "Poker by Neowiz",
+								"value": 1215467
+							},
+							{
+								"name": "Sudda",
+								"value": 1474208
+							}
+						]
+					},
+					{
+						"name": "Dressing Simulation Game",
+						"children": [{
+							"name": "Miracle Nikki",
+							"value": 3643980
+						}]
+					},
+					{
+						"name": "Dungeon",
+						"children": [{
+							"name": "Archero",
+							"value": 5640342
+						}]
+					},
+					{
+						"name": "Fighting Game",
+						"children": [{
+								"name": "Bleach: Memories of Nobody Fighting",
+								"value": 1440006
+							},
+							{
+								"name": "Engagement: the spirit comes again",
+								"value": 118218
+							},
+							{
+								"name": "God of Highschool",
+								"value": 544759
+							},
+							{
+								"name": "Hot Blood Kang Ho M",
+								"value": 1320842
+							},
+							{
+								"name": "Lookism",
+								"value": 153891
+							},
+							{
+								"name": "MapleStory M",
+								"value": 15792307
+							},
+							{
+								"name": "THE KING OF FIGHTERS ALLSTAR",
+								"value": 6482803
+							}
+						]
+					},
+					{
+						"name": "FPS",
+						"children": [{
+								"name": "Call of Duty: Mobile",
+								"value": 521123
+							},
+							{
+								"name": "Special Soldier",
+								"value": 168845
+							},
+							{
+								"name": "We Fire",
+								"value": 231632
+							}
+						]
+					},
+					{
+						"name": "Free sandbox",
+						"children": [{
+								"name": "ROBLOX",
+								"value": 152056
+							}
+
+
+						]
+					},
+					{
+						"name": "idle game",
+						"children": [{
+								"name": "Endless Frontier",
+								"value": 529812
+							},
+							{
+								"name": "High Level Warrior: Idle",
+								"value": 113537
+							},
+							{
+								"name": "Idle Adventurers",
+								"value": 2182691
+							},
+							{
+								"name": "Idle Heroes",
+								"value": 3131625
+							},
+							{
+								"name": "Lost Decade",
+								"value": 644211
+							},
+							{
+								"name": "Ro: Idle Poring",
+								"value": 258345
+							},
+							{
+								"name": "The Fellowship of The Dragon",
+								"value": 185605
+							},
+							{
+								"name": "Videogame Guardians",
+								"value": 794922
+							}
+
+						]
+					},
+					{
+						"name": "Idol Simulation Game",
+						"children": [{
+								"name": "BanG Dream",
+								"value": 1670095
+							},
+							{
+								"name": "BTS WORLD",
+								"value": 3333375
+							},
+							{
+								"name": "Ensemble Stars",
+								"value": 1347418
+							},
+							{
+								"name": "SuperStar BTS",
+								"value": 303480
+							}
+
+						]
+					},
+					{
+						"name": "imitating ancient palace intrigue",
+						"children": [{
+								"name": "Be The King",
+								"value": 28282301
+							},
+							{
+								"name": "Call Me Emperor",
+								"value": 7604965
+							},
+							{
+								"name": "Hand tour of palace",
+								"value": 1554710
+							},
+							{
+								"name": "Legend of Xi Fei",
+								"value": 710054
+							},
+							{
+								"name": "Royal Chaos",
+								"value": 1492199
+							},
+							{
+								"name": "Yeokcheon: authentic historical drama",
+								"value": 62834
+							}
+
+						]
+					},
+					{
+						"name": "IO",
+						"children": [{
+								"name": "Brawl Stars",
+								"value": 16906896
+							}
+
+						]
+					},
+					{
+						"name": "Legend",
+						"children": [{
+								"name": "Ark Road Awake",
+								"value": 174265
+							},
+							{
+								"name": "Eternal Battle",
+								"value": 314784
+							},
+							{
+								"name": "EverBattle 2",
+								"value": 645579
+							},
+							{
+								"name": "Legend of Bluemoon",
+								"value": 264575
+							},
+							{
+								"name": "Legend of Mir II",
+								"value": ""
+							},
+							{
+								"name": "Miracle muol H5",
+								"value": ""
+							},
+							{
+								"name": "MU Awakening",
+								"value": 5624480
+							},
+							{
+								"name": "MU: Origin",
+								"value": 1704146
+							},
+							{
+								"name": "The Legend of Mir 2 Re",
+								"value": 801766
+							}
+
+						]
+					},
+					{
+						"name": "Love Game",
+						"children": [{
+								"name": "Love and Producer",
+								"value": 1790262
+							}
+
+						]
+					},
+					{
+						"name": "Mahjong",
+						"children": [{
+								"name": "Anipang Mahjong",
+								"value": 225151
+							},
+							{
+								"name": "FriendsSCpuzzle",
+								"value": 699383
+							}
+
+						]
+					},
+					{
+						"name": "MOBA",
+						"children": [{
+								"name": "Honour of Kings",
+								"value": 779841
+							},
+							{
+								"name": "Inhuman Academy",
+								"value": 89464
+							},
+							{
+								"name": "Mobile Legends: Bang bang",
+								"value": 3602853
+							}
+
+						]
+					},
+					{
+						"name": "Other simulations",
+						"children": [{
+							"name": "Harry Potter: Hogwarts Mystery",
+							"value": 236227
+						}]
+					},
+					{
+						"name": "Parkour",
+						"children": [{
+								"name": "Cookie Run: OvenBreak",
+								"value": 10775250
+							},
+							{
+								"name": "WIND RUNNER Z",
+								"value": 299338
+							}
+						]
+					},
+					{
+						"name": "Pure tone dance",
+						"children": [{
+								"name": "Club Audition",
+								"value": 88930
+							},
+							{
+								"name": "Fish Island 2018",
+								"value": 460863
+							}
+						]
+					},
+					{
+						"name": "Race Game",
+						"children": [{
+								"name": "Asphalt 9: Legends",
+								"value": 370633
+							},
+							{
+								"name": "Friends Racing",
+								"value": 1647703
+							},
+							{
+								"name": "Racing Star M",
+								"value": 55161
+							}
+						]
+					},
+					{
+						"name": "Real time card game RPG",
+						"children": [{
+								"name": "Azur Lane",
+								"value": 992542
+							},
+							{
+								"name": "Everyone Legend of Heroes",
+								"value": 306599
+							},
+							{
+								"name": "Grand Chase",
+								"value": 2080655
+							},
+							{
+								"name": "King's Raid",
+								"value": 3948090
+							},
+							{
+								"name": "miracle",
+								"value": 36262
+							},
+							{
+								"name": "OverHit",
+								"value": 4843219
+							},
+							{
+								"name": "Pokemon Masters",
+								"value": 137178
+							},
+							{
+								"name": "Princess Connect! Re:Dive",
+								"value": 3704492
+							},
+							{
+								"name": "Sangokushi Taisen",
+								"value": 120591
+							},
+							{
+								"name": "Witch's Weapon",
+								"value": 72495
+							}
+						]
+					},
+					{
+						"name": "Real-Time Strategy Game",
+						"children": [{
+								"name": "Clash Royale",
+								"value": 10145572
+							},
+							{
+								"name": "Cookie Wars",
+								"value": 241727
+							},
+							{
+								"name": "DRAGON BALL LEGENDS",
+								"value": 139830
+							},
+							{
+								"name": "Super Evo Story",
+								"value": 509522
+							},
+							{
+								"name": "The Battle Cats",
+								"value": 1450647
+							}
+						]
+					},
+					{
+						"name": "RPG Elimination Game",
+						"children": [{
+								"name": "Crusaders Quest",
+								"value": 1657653
+							},
+							{
+								"name": "Empires ; Puzzles",
+								"value": 1183820
+							},
+							{
+								"name": "Sdorica -sunset",
+								"value": 979441
+							}
+						]
+					},
+					{
+						"name": "SameGame",
+						"children": [{
+							"name": "Toon Blast",
+							"value": 357608
+						}]
+					},
+					{
+						"name": "Shooting Game",
+						"children": [{
+								"name": "Dragon Flight",
+								"value": 260429
+							},
+							{
+								"name": "Dragon Sky by Triple Double",
+								"value": 739394
+							},
+							{
+								"name": "Fortress M",
+								"value": 988486
+							},
+							{
+								"name": "Zombie high school",
+								"value": 895816
+							}
+						]
+					},
+					{
+						"name": "Simulation Game",
+						"children": [{
+								"name": "Crazy Riches",
+								"value": 704192
+							},
+							{
+								"name": "Klondike Adventures",
+								"value": 207923
+							},
+							{
+								"name": "Over Ocean: The Great Voyage",
+								"value": 2055600
+							},
+							{
+								"name": "Reach Rich",
+								"value": 586183
+							},
+							{
+								"name": "Super Rich",
+								"value": ""
+							},
+							{
+								"name": "Township",
+								"value": 1373661
+							}
+						]
+					},
+					{
+						"name": "SLG",
+						"children": [{
+								"name": "Age of Z",
+								"value": 1065729
+							},
+							{
+								"name": "Battle Warship: Naval Empire",
+								"value": 1180943
+							},
+							{
+								"name": "Before Genesis",
+								"value": 852802
+							},
+							{
+								"name": "Clash of Clans",
+								"value": 8341462
+							},
+							{
+								"name": "Clash of Kings",
+								"value": 353724
+							},
+							{
+								"name": "Final Fantasy XV: A New Empire",
+								"value": 3354333
+							},
+							{
+								"name": "Final Heroes",
+								"value": 653821
+							},
+							{
+								"name": "Guns of Glory",
+								"value": 4805476
+							},
+							{
+								"name": "Hegemony of Qin Empire",
+								"value": 36908
+							},
+							{
+								"name": "Heroes of Might and Magic",
+								"value": 156430
+							},
+							{
+								"name": "Inside the Three Kingdoms",
+								"value": 730778
+							},
+							{
+								"name": "Iron Throne",
+								"value": 239503
+							},
+							{
+								"name": "King of Avalon: Dragon Warfare",
+								"value": 779638
+							},
+							{
+								"name": "King Of The Land",
+								"value": 295113
+							},
+							{
+								"name": "Last Empire-War Z",
+								"value": 90654
+							},
+							{
+								"name": "Last Shelter: Survival",
+								"value": 3973141
+							},
+							{
+								"name": "Lords Mobile",
+								"value": 10290057
+							},
+							{
+								"name": "Mafia City",
+								"value": 3674968
+							},
+							{
+								"name": "My Country",
+								"value": 1756209
+							},
+							{
+								"name": "Open New World",
+								"value": 1016485
+							},
+							{
+								"name": "Pirates of the Caribbean : Tides of War",
+								"value": 369174
+							},
+							{
+								"name": "Rise of Dynasty: Three Kingdom",
+								"value": 13226490
+							},
+							{
+								"name": "Rise of Kingdoms",
+								"value": 10548360
+							},
+							{
+								"name": "Shin Sangokushi",
+								"value": 4978567
+							},
+							{
+								"name": "Thirty six strategies",
+								"value": 114601
+							},
+							{
+								"name": "Three Kingdoms Live",
+								"value": 490071
+							},
+							{
+								"name": "Three Kingdoms: King Maker",
+								"value": 286563
+							},
+							{
+								"name": "War and Order",
+								"value": 194062
+							},
+							{
+								"name": "Z Day: Hearts of Heroes",
+								"value": 828545
+							}
+						]
+					},
+					{
+						"name": "Survival sandbox",
+						"children": [{
+								"name": "Durango: Wild Lands",
+								"value": 1012961
+							},
+							{
+								"name": "LifeAfter",
+								"value": 1533448
+							}
+						]
+					},
+					{
+						"name": "Tower Defense",
+						"children": [{
+								"name": "Defend the Castle: Tower Defense",
+								"value": 129952
+							},
+							{
+								"name": "Master of the people 2",
+								"value": 212534
+							},
+							{
+								"name": "Royal dice",
+								"value": 673417
+							},
+							{
+								"name": "Tower Defense Three Kingdoms",
+								"value": 540513
+							}
+						]
+					},
+					{
+						"name": "Traditional Anipop",
+						"children": [{
+								"name": "Anipang 2",
+								"value": 282689
+							},
+							{
+								"name": "Anipang3 for Kakao",
+								"value": 2115423
+							},
+							{
+								"name": "Candy Crush Saga",
+								"value": 2010184
+							},
+							{
+								"name": "Candy Crush Soda Saga",
+								"value": 1146671
+							},
+							{
+								"name": "Friends Popcorn",
+								"value": 3607987
+							},
+							{
+								"name": "Pop Friends",
+								"value": 2243337
+							}
+						]
+					},
+					{
+						"name": "Turn-Based Card RPG",
+						"children": [{
+								"name": "Another Eden",
+								"value": 683019
+							},
+							{
+								"name": "Ark command",
+								"value": 110813
+							},
+							{
+								"name": "Brown Dust",
+								"value": 2161198
+							},
+							{
+								"name": "DanMachi Memoria",
+								"value": 246042
+							},
+							{
+								"name": "Destiny Child",
+								"value": 928165
+							},
+							{
+								"name": "Devil maker",
+								"value": 115691
+							},
+							{
+								"name": "Dice remnant",
+								"value": 83558
+							},
+							{
+								"name": "Dragon Ball Z Dokkan Battle",
+								"value": 2934108
+							},
+							{
+								"name": "Dragon Blaze",
+								"value": 3940208
+							},
+							{
+								"name": "Elune",
+								"value": 214592
+							},
+							{
+								"name": "Epic Seven",
+								"value": 7906527
+							},
+							{
+								"name": "Exos Heroes",
+								"value": 780150
+							},
+							{
+								"name": "Fate/Grand Order",
+								"value": 7849893
+							},
+							{
+								"name": "FINAL FANTASY BRAVE EXVIUS",
+								"value": 306853
+							},
+							{
+								"name": "Food Fantasy",
+								"value": 241404
+							},
+							{
+								"name": "Game of failure",
+								"value": 252290
+							},
+							{
+								"name": "Girl's Frontline",
+								"value": 5444673
+							},
+							{
+								"name": "HEIR OF LIGHT",
+								"value": 135125
+							},
+							{
+								"name": "Hello Hero: Epic Battle",
+								"value": 279157
+							},
+							{
+								"name": "Hero Cantare",
+								"value": 323985
+							},
+							{
+								"name": "Jurassic World: The Game",
+								"value": 51124
+							},
+							{
+								"name": "Knights Chronicle",
+								"value": 753919
+							},
+							{
+								"name": "League of Angels - Paradise Land",
+								"value": 76342
+							},
+							{
+								"name": "LYN: The Lightbringer",
+								"value": 2058160
+							},
+							{
+								"name": "Mobile team",
+								"value": 64920
+							},
+							{
+								"name": "Monster Taming",
+								"value": 1692799
+							},
+							{
+								"name": "One Piece Treasure Cruise",
+								"value": 6707749
+							},
+							{
+								"name": "Onmyoji",
+								"value": 2157708
+							},
+							{
+								"name": "Pokemon Quest",
+								"value": 222581
+							},
+							{
+								"name": "RAID: Shadow Legends",
+								"value": 449128
+							},
+							{
+								"name": "Saint Seiya : Awakening",
+								"value": 136757
+							},
+							{
+								"name": "Sea Battle M",
+								"value": 40997
+							},
+							{
+								"name": "Seven Knights",
+								"value": 16784341
+							},
+							{
+								"name": "Soul Ark",
+								"value": 229928
+							},
+							{
+								"name": "Summoners War",
+								"value": 10801531
+							},
+							{
+								"name": "The King of Fighters' 98 Ultimate Match",
+								"value": 1143978
+							},
+							{
+								"name": "The origin of the last",
+								"value": ""
+							},
+							{
+								"name": "The Seven Deadly Sins: Hikari to Yami no Grand Cross",
+								"value": 6788764
+							},
+							{
+								"name": "Two Three Kingdoms: Turn-based",
+								"value": 167347
+							},
+							{
+								"name": "Warship Saga 1942",
+								"value": 611458
+							}
+						]
+					},
+					{
+						"name": "Turn-Based Strategy Game",
+						"children": [{
+								"name": "Hearthstone: Heroes of Warcraft",
+								"value": 4970468
+							},
+							{
+								"name": "Yu-Gi-Oh! Duel Links",
+								"value": 970371
+							}
+						]
+					},
+					{
+						"name": "Wargame",
+						"children": [{
+								"name": "Chain Strike",
+								"value": 130634
+							},
+							{
+								"name": "Langrisser",
+								"value": 7689250
+							},
+							{
+								"name": "Moonless God",
+								"value": 86234
+							},
+							{
+								"name": "Sangokushi Sousouden Online",
+								"value": 969880
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "Taiwan",
+				"children": [{
+						"name": "Action Game",
+						"children": [{
+								"name": "Baseball palace 2017",
+								"value": 1817812
+							},
+							{
+								"name": "Captain Tsubasa: Dream Team",
+								"value": 277411
+							},
+							{
+								"name": "MLB 9 Innings 18",
+								"value": 7304578
+							},
+							{
+								"name": "MLB Perfect Inning Live",
+								"value": 205172
+							},
+							{
+								"name": "Professional Baseball VS",
+								"value": 556312
+							},
+							{
+								"name": "Street Basketball",
+								"value": 334692
+							}
+						]
+					},
+					{
+						"name": "Action Real-Time MMORPG",
+						"children": [{
+								"name": "A Dream of Jianghu",
+								"value": 3758285
+							},
+							{
+								"name": "A sword pours down on the city",
+								"value": 319482
+							},
+							{
+								"name": "Alliance X Empire",
+								"value": 1776702
+							},
+							{
+								"name": "ambition",
+								"value": 1347139
+							},
+							{
+								"name": "Angel Era",
+								"value": 3320907
+							},
+							{
+								"name": "Aura Kingdom 2",
+								"value": 1118812
+							},
+							{
+								"name": "Awakening Of Dragon",
+								"value": 1662322
+							},
+							{
+								"name": "Battle Spirit M",
+								"value": 687088
+							},
+							{
+								"name": "Black Desert",
+								"value": 17772468
+							},
+							{
+								"name": "Candle in the Tomb",
+								"value": 133424
+							},
+							{
+								"name": "Cloud and dream",
+								"value": 1550518
+							},
+							{
+								"name": "Dark Legend",
+								"value": 294014
+							},
+							{
+								"name": "Demon Seals",
+								"value": 1048162
+							},
+							{
+								"name": "Divine Comedy",
+								"value": 308849
+							},
+							{
+								"name": "Dragon Raja",
+								"value": 3188726
+							},
+							{
+								"name": "Enquire from the gods",
+								"value": 3868200
+							},
+							{
+								"name": "Era of Kingdoms",
+								"value": 158054
+							},
+							{
+								"name": "Eternal dream",
+								"value": 301498
+							},
+							{
+								"name": "Eternal Flame of Love",
+								"value": 8322774
+							},
+							{
+								"name": "Eternal Guarding",
+								"value": 5553775
+							},
+							{
+								"name": "Eternity: the Origin of Fate",
+								"value": 188307
+							},
+							{
+								"name": "Ever Night",
+								"value": 1222996
+							},
+							{
+								"name": "Exquisite formula",
+								"value": 918492
+							},
+							{
+								"name": "Faith Framework",
+								"value": 952415
+							},
+							{
+								"name": "Fantasy realm",
+								"value": 620993
+							},
+							{
+								"name": "Fate of Ascension",
+								"value": 1882566
+							},
+							{
+								"name": "Fengyun 2",
+								"value": 379730
+							},
+							{
+								"name": "Fire Like the Song",
+								"value": 3778853
+							},
+							{
+								"name": "Forsaken World",
+								"value": 3522941
+							},
+							{
+								"name": "Ghost",
+								"value": 1781478
+							},
+							{
+								"name": "Ghost language",
+								"value": 8975287
+							},
+							{
+								"name": "Glory of Cepheus",
+								"value": 1000686
+							},
+							{
+								"name": "God of Night",
+								"value": 406804
+							},
+							{
+								"name": "Guard: the Light of Destiny",
+								"value": 2005121
+							},
+							{
+								"name": "Heroes of Tang Dynasty",
+								"value": 418204
+							},
+							{
+								"name": "Hot blooded sword",
+								"value": 3819596
+							},
+							{
+								"name": "Hundred Soul",
+								"value": 178395
+							},
+							{
+								"name": "I am MT 4",
+								"value": 1495900
+							},
+							{
+								"name": "I'm in the world",
+								"value": 624286
+							},
+							{
+								"name": "Immortal Swords",
+								"value": 1145473
+							},
+							{
+								"name": "Jade Dynasty",
+								"value": 853713
+							},
+							{
+								"name": "Kaiser",
+								"value": 344758
+							},
+							{
+								"name": "King of Kings",
+								"value": 3305215
+							},
+							{
+								"name": "Legacy of Discord",
+								"value": 3608438
+							},
+							{
+								"name": "Legend of hope",
+								"value": 459667
+							},
+							{
+								"name": "Legend of Xuanyuan",
+								"value": 5535626
+							},
+							{
+								"name": "Lineage 2 Revolution",
+								"value": 25707119
+							},
+							{
+								"name": "Lineage M",
+								"value": 88452600
+							},
+							{
+								"name": "Lord Xue Ying",
+								"value": 372924
+							},
+							{
+								"name": "Lost Heaven",
+								"value": 264108
+							},
+							{
+								"name": "Love on pillow",
+								"value": 525914
+							},
+							{
+								"name": "Love with the immortal",
+								"value": 211347
+							},
+							{
+								"name": "Luna M",
+								"value": 713547
+							},
+							{
+								"name": "Luna Online",
+								"value": 930225
+							},
+							{
+								"name": "Manghuangji 2018",
+								"value": 1317794
+							},
+							{
+								"name": "March - dream life",
+								"value": 722129
+							},
+							{
+								"name": "Millennial Jiae M",
+								"value": ""
+							},
+							{
+								"name": "My Own Swordsman",
+								"value": 2072178
+							},
+							{
+								"name": "Nine Regions Youxia Legend",
+								"value": 857612
+							},
+							{
+								"name": "Nirvana in Fire",
+								"value": 918361
+							},
+							{
+								"name": "Noah's Contract M",
+								"value": 306917
+							},
+							{
+								"name": "Novoland the Castle in the Sky",
+								"value": 2582392
+							},
+							{
+								"name": "Perfect World",
+								"value": 11341936
+							},
+							{
+								"name": "Ragnarok M : Eternal Love",
+								"value": 34892383
+							},
+							{
+								"name": "Rampant School Park",
+								"value": 547169
+							},
+							{
+								"name": "Return of the Condor Heroes 2",
+								"value": 992666
+							},
+							{
+								"name": "Rohan M",
+								"value": 2600102
+							},
+							{
+								"name": "Sansheng Sanshi Shili peach blossom",
+								"value": 369986
+							},
+							{
+								"name": "SEAL Hope: New World",
+								"value": 575786
+							},
+							{
+								"name": "Seal Mobile",
+								"value": 690695
+							},
+							{
+								"name": "Spirit sword immortal master",
+								"value": 159208
+							},
+							{
+								"name": "Spirit Wish",
+								"value": 308503
+							},
+							{
+								"name": "Sword and contract",
+								"value": 481771
+							},
+							{
+								"name": "Sword Art Online: Integral Factor",
+								"value": 172464
+							},
+							{
+								"name": "Sword dance",
+								"value": 384861
+							},
+							{
+								"name": "Swordsman",
+								"value": 254217
+							},
+							{
+								"name": "Taigu Fengmo record",
+								"value": 453841
+							},
+							{
+								"name": "Taigu God King: Star soul Awakening",
+								"value": 684135
+							},
+							{
+								"name": "Teon",
+								"value": 548064
+							},
+							{
+								"name": "The Bright Moon",
+								"value": 722521
+							},
+							{
+								"name": "The Continent of Wind",
+								"value": 14418066
+							},
+							{
+								"name": "The Dark Crusade",
+								"value": 740730
+							},
+							{
+								"name": "The Demi-Gods and Semi-Devils Mobile",
+								"value": 273890
+							},
+							{
+								"name": "The Epoch of Eternity",
+								"value": 4042019
+							},
+							{
+								"name": "The King Of Fighters World",
+								"value": 488322
+							},
+							{
+								"name": "The Kunlun Ruins",
+								"value": 1591350
+							},
+							{
+								"name": "The Land of Glory",
+								"value": 928669
+							},
+							{
+								"name": "The Legend of The Condor Heroes",
+								"value": 935707
+							},
+							{
+								"name": "The Legend of The Condor Heroes 2",
+								"value": 1480671
+							},
+							{
+								"name": "The magic night of Tang Dynasty",
+								"value": 873820
+							},
+							{
+								"name": "The origin of Mori",
+								"value": 539385
+							},
+							{
+								"name": "The Soul Land",
+								"value": 3885167
+							},
+							{
+								"name": "The story of choosing Immortals",
+								"value": 482980
+							},
+							{
+								"name": "The Story of Xia",
+								"value": 249665
+							},
+							{
+								"name": "The Sword And Lovers",
+								"value": 560822
+							},
+							{
+								"name": "The sword of the world",
+								"value": 3897157
+							},
+							{
+								"name": "Unparalleled Swordsman",
+								"value": 463180
+							},
+							{
+								"name": "Wu Dao Xian Zun",
+								"value": 1725922
+							},
+							{
+								"name": "Yokai Tamer",
+								"value": 1770812
+							},
+							{
+								"name": "You and the world",
+								"value": 129148
+							},
+							{
+								"name": "Younger martial sister Yuanqi",
+								"value": 490944
+							},
+							{
+								"name": "Yulgang Mobile",
+								"value": 1036232
+							}
+						]
+					},
+					{
+						"name": "AR+LBS",
+						"children": [{
+							"name": "Pokemon GO",
+							"value": 21373142
+						}]
+					},
+					{
+						"name": "ARPG",
+						"children": [{
+								"name": "Bleach: Memories of Nobody",
+								"value": 1995135
+							},
+							{
+								"name": "City of Forever 7 Days",
+								"value": 2442360
+							},
+							{
+								"name": "Colopl Rune Story",
+								"value": 179170
+							},
+							{
+								"name": "Dark Avenger 3",
+								"value": 1640259
+							},
+							{
+								"name": "Dragalia Lost",
+								"value": 4865198
+							},
+							{
+								"name": "Dragon Nest",
+								"value": 5754975
+							},
+							{
+								"name": "Dynasty Warriors: Unleashed",
+								"value": 569608
+							},
+							{
+								"name": "Final Fantasy Awakening",
+								"value": 537126
+							},
+							{
+								"name": "GUNDAM BATTLE: GUNPLA WARFARE",
+								"value": 175417
+							},
+							{
+								"name": "Honkai Impact 3",
+								"value": 9644862
+							},
+							{
+								"name": "Infinite Fighting",
+								"value": 3505041
+							},
+							{
+								"name": "Inuyasha - Battle of Naraku",
+								"value": 220074
+							},
+							{
+								"name": "MARVEL Future Fight",
+								"value": 5606229
+							},
+							{
+								"name": "Reincarnation formula",
+								"value": 381693
+							},
+							{
+								"name": "Sword Art Online Memory Defrag",
+								"value": 345602
+							},
+							{
+								"name": "The battle of Tianyi",
+								"value": 309552
+							},
+							{
+								"name": "The Soul of Hunter",
+								"value": 760719
+							}
+						]
+					},
+					{
+						"name": "Asymmetric Battle Arena",
+						"children": [{
+							"name": "Identity V",
+							"value": 7004873
+						}]
+					},
+					{
+						"name": "Battle royale game",
+						"children": [{
+								"name": "Free Fire",
+								"value": 4739504
+							},
+							{
+								"name": "Knives Out",
+								"value": 8301084
+							},
+							{
+								"name": "PUBG MOBILE",
+								"value": 2461432
+							}
+						]
+					},
+					{
+						"name": "Bead Game",
+						"children": [{
+								"name": "NOVENIA",
+								"value": 169404
+							},
+							{
+								"name": "Tower of Saviors",
+								"value": 61120101
+							}
+						]
+					},
+					{
+						"name": "Business Elimination Game",
+						"children": [{
+								"name": "Gardenscapes - New Acres",
+								"value": 4898307
+							},
+							{
+								"name": "Homescapes",
+								"value": 4623214
+							}
+						]
+					},
+					{
+						"name": "Casual Game",
+						"children": [{
+								"name": "BnB",
+								"value": 877192
+							},
+							{
+								"name": "Everybody's Marble",
+								"value": 1077820
+							},
+							{
+								"name": "Fishing Strike",
+								"value": 166732
+							},
+							{
+								"name": "Travel Frog",
+								"value": 291264
+							}
+						]
+					},
+					{
+						"name": "Chess and card gambling",
+						"children": [{
+							"name": "Texas Poker by Gamesofa",
+							"value": 904736
+						}]
+					},
+					{
+						"name": "Chess and cards",
+						"children": [{
+							"name": "Gamesofa Mahjong",
+							"value": 13322056
+						}]
+					},
+					{
+						"name": "Dressing Simulation Game",
+						"children": [{
+								"name": "Miracle Nikki",
+								"value": 2894064
+							},
+							{
+								"name": "Shining Nikki",
+								"value": 2927789
+							}
+						]
+					},
+					{
+						"name": "Dungeon",
+						"children": [{
+								"name": "Archero",
+								"value": 5641965
+							},
+							{
+								"name": "Dungeon Survivor II",
+								"value": 818459
+							},
+							{
+								"name": "Runaway hero",
+								"value": 1343112
+							}
+						]
+					},
+					{
+						"name": "Fighting Game",
+						"children": [{
+								"name": "Closers M",
+								"value": 143281
+							},
+							{
+								"name": "Engagement: the spirit comes again",
+								"value": 507841
+							},
+							{
+								"name": "La Tale W",
+								"value": 637348
+							},
+							{
+								"name": "MapleStory M",
+								"value": 22867456
+							},
+							{
+								"name": "Marvel Contest of Champions",
+								"value": 167858
+							},
+							{
+								"name": "THE KING OF FIGHTERS ALLSTAR",
+								"value": 2392790
+							},
+							{
+								"name": "The King of Fighters: Destiny",
+								"value": 1398109
+							},
+							{
+								"name": "Tianhua hundred Swords: Chop",
+								"value": 166530
+							}
+						]
+					},
+					{
+						"name": "FPS",
+						"children": [{
+								"name": "Call of Duty: Mobile",
+								"value": 1246814
+							},
+							{
+								"name": "Crisis Action",
+								"value": 605366
+							}
+						]
+					},
+					{
+						"name": "idle game",
+						"children": [{
+								"name": "AFK Arena",
+								"value": 25905649
+							},
+							{
+								"name": "Akuryo Taisan",
+								"value": 131435
+							},
+							{
+								"name": "Barrage and Archer",
+								"value": 1024694
+							},
+							{
+								"name": "Girls X Battle 2",
+								"value": 1506620
+							},
+							{
+								"name": "Idle Adventurers",
+								"value": 4223618
+							},
+							{
+								"name": "Idle Devil",
+								"value": 214228
+							},
+							{
+								"name": "Idle Heroes",
+								"value": 9546393
+							},
+							{
+								"name": "Keep a Hero to Battle",
+								"value": 184534
+							},
+							{
+								"name": "LINE Rangers",
+								"value": 1055578
+							},
+							{
+								"name": "Lost Decade",
+								"value": 2443023
+							},
+							{
+								"name": "Place Three Kingdoms",
+								"value": 335032
+							},
+							{
+								"name": "Twinkling light",
+								"value": 641601
+							},
+							{
+								"name": "Xiuzhen simulator",
+								"value": 302201
+							},
+							{
+								"name": "Xuanyuan Xiuxian record",
+								"value": 1309767
+							}
+						]
+					},
+					{
+						"name": "Idol Simulation Game",
+						"children": [{
+							"name": "BTS WORLD",
+							"value": 382680
+						}]
+					},
+					{
+						"name": "imitating ancient palace intrigue",
+						"children": [{
+								"name": "Be The King",
+								"value": 27275553
+							},
+							{
+								"name": "Call Me Emperor",
+								"value": 13364916
+							},
+							{
+								"name": "Floating life is my song",
+								"value": 1022219
+							},
+							{
+								"name": "Flowers In Forbidden City",
+								"value": 2053226
+							},
+							{
+								"name": "Hand tour of palace",
+								"value": 899915
+							},
+							{
+								"name": "I am an Emperor in Qing Dynasty",
+								"value": 2683538
+							},
+							{
+								"name": "King And Beauty",
+								"value": 759467
+							},
+							{
+								"name": "Legend of Xi Fei",
+								"value": 6207837
+							},
+							{
+								"name": "One Lords and Seven Wives",
+								"value": 10190671
+							},
+							{
+								"name": "Regent of Qing Dynasty",
+								"value": 743827
+							},
+							{
+								"name": "Royal Chaos",
+								"value": 2367700
+							},
+							{
+								"name": "Secretary to the president",
+								"value": 306580
+							}
+						]
+					},
+					{
+						"name": "IO",
+						"children": [{
+							"name": "Brawl Stars",
+							"value": 4901018
+						}]
+					},
+					{
+						"name": "Legend",
+						"children": [{
+								"name": "Archangel Sword H5",
+								"value": 4497482
+							},
+							{
+								"name": "Eternal Battle",
+								"value": 216190
+							},
+							{
+								"name": "I'm a legend",
+								"value": 4031221
+							},
+							{
+								"name": "Legend of Bluemoon",
+								"value": 700930
+							},
+							{
+								"name": "MU Awakening",
+								"value": 4412087
+							},
+							{
+								"name": "MU: Origin",
+								"value": 296330
+							},
+							{
+								"name": "Ultimate Guardian",
+								"value": 251042
+							}
+						]
+					},
+					{
+						"name": "Leisure gambling",
+						"children": [{
+							"name": "Pig's Adventure",
+							"value": 260561
+						}]
+					},
+					{
+						"name": "Love Game",
+						"children": [{
+							"name": "Love and Producer",
+							"value": 9133156
+						}]
+					},
+					{
+						"name": "Mixed gambling",
+						"children": [{
+								"name": "0857online",
+								"value": 18054974
+							},
+							{
+								"name": "Bonus Winner Mahjong",
+								"value": 4160310
+							},
+							{
+								"name": "Bravo Casino",
+								"value": 4059803
+							},
+							{
+								"name": "Let's Vegas Slots",
+								"value": 7695057
+							},
+							{
+								"name": "Star 371-16 Mahjong",
+								"value": 17622176
+							}
+						]
+					},
+					{
+						"name": "Mixed Game",
+						"children": [{
+							"name": "Merge Dragons",
+							"value": 267896
+						}]
+					},
+					{
+						"name": "MOBA",
+						"children": [{
+								"name": "Honour of Kings",
+								"value": 54555334
+							},
+							{
+								"name": "Onmyoji Arena",
+								"value": 3217347
+							}
+						]
+					},
+					{
+						"name": "Parkour",
+						"children": [{
+							"name": "Cookie Run: OvenBreak",
+							"value": 2647818
+						}]
+					},
+					{
+						"name": "Pinball Game",
+						"children": [{
+								"name": "LINE Bubble 2",
+								"value": 6485846
+							},
+							{
+								"name": "Monster Strike",
+								"value": 4247034
+							}
+						]
+					},
+					{
+						"name": "Race Game",
+						"children": [{
+								"name": "Mario Kart Tour",
+								"value": 154624
+							},
+							{
+								"name": "QQ Speed",
+								"value": 36821123
+							}
+						]
+					},
+					{
+						"name": "Real time card game RPG",
+						"children": [{
+								"name": "Azur Lane",
+								"value": 1916908
+							},
+							{
+								"name": "CARAVAN STORIES",
+								"value": 160565
+							},
+							{
+								"name": "Destiny 6",
+								"value": 187890
+							},
+							{
+								"name": "Everyone Legend of Heroes",
+								"value": 699159
+							},
+							{
+								"name": "Grand Chase",
+								"value": 126045
+							},
+							{
+								"name": "Hero Wars",
+								"value": 3046122
+							},
+							{
+								"name": "Kardia tou Abel",
+								"value": 702035
+							},
+							{
+								"name": "King's Raid",
+								"value": 4605564
+							},
+							{
+								"name": "Mirage Memorial",
+								"value": 136095
+							},
+							{
+								"name": "OverHit",
+								"value": 301000
+							},
+							{
+								"name": "Papa Three Kingdom 2",
+								"value": 7337522
+							},
+							{
+								"name": "Pokemon Masters",
+								"value": 681964
+							},
+							{
+								"name": "Princess Connect! Re:Dive",
+								"value": 13184746
+							},
+							{
+								"name": "Sangokushi Taisen",
+								"value": 109207
+							},
+							{
+								"name": "The Tale of Five Kingdoms",
+								"value": 473469
+							}
+						]
+					},
+					{
+						"name": "Real-Time Strategy Game",
+						"children": [{
+								"name": "Clash Royale",
+								"value": 6607638
+							},
+							{
+								"name": "DRAGON BALL LEGENDS",
+								"value": 1240899
+							},
+							{
+								"name": "The Battle Cats",
+								"value": 4676120
+							}
+						]
+					},
+					{
+						"name": "RPG Elimination Game",
+						"children": [{
+								"name": "Crash Fever",
+								"value": 4081462
+							},
+							{
+								"name": "Crusaders Quest",
+								"value": 670342
+							},
+							{
+								"name": "Empires ; Puzzles",
+								"value": 629085
+							},
+							{
+								"name": "JUMPTI Heroes",
+								"value": 1440373
+							},
+							{
+								"name": "Sdorica -sunset",
+								"value": 2128861
+							}
+						]
+					},
+					{
+						"name": "Shooting Game",
+						"children": [{
+								"name": "Contra: Return",
+								"value": 5690113
+							},
+							{
+								"name": "Dragon Sky by Triple Double",
+								"value": 102198
+							},
+							{
+								"name": "Garena DDTank",
+								"value": 157334
+							}
+						]
+					},
+					{
+						"name": "Simulation Game",
+						"children": [{
+								"name": "big boss",
+								"value": ""
+							},
+							{
+								"name": "Box Office Wonder",
+								"value": 1013193
+							},
+							{
+								"name": "Brown Farm",
+								"value": 2688035
+							},
+							{
+								"name": "Happy Fish",
+								"value": 234181
+							},
+							{
+								"name": "I Am Rich",
+								"value": 394791
+							},
+							{
+								"name": "LINE CHEF",
+								"value": 2192028
+							},
+							{
+								"name": "Township",
+								"value": 1265647
+							},
+							{
+								"name": "Yokai Kitchen",
+								"value": 237908
+							}
+						]
+					},
+					{
+						"name": "SLG",
+						"children": [{
+								"name": "Age of Z",
+								"value": 1271649
+							},
+							{
+								"name": "All Within The Boundaries",
+								"value": 352197
+							},
+							{
+								"name": "Battle Warship: Naval Empire",
+								"value": 500826
+							},
+							{
+								"name": "Brutal Age: Horde Invasion",
+								"value": 88444
+							},
+							{
+								"name": "Chief Almighty",
+								"value": 201618
+							},
+							{
+								"name": "Clash of Clans",
+								"value": 1225457
+							},
+							{
+								"name": "Clash of Kings",
+								"value": 7014898
+							},
+							{
+								"name": "Dragon overlord",
+								"value": 719982
+							},
+							{
+								"name": "Final Fantasy XV: A New Empire",
+								"value": 3851283
+							},
+							{
+								"name": "Great military division",
+								"value": 184862
+							},
+							{
+								"name": "Guns of Glory",
+								"value": 2012491
+							},
+							{
+								"name": "Heroes of Might and Magic",
+								"value": 73625
+							},
+							{
+								"name": "Hoolai Three Kingdoms 2",
+								"value": 98497
+							},
+							{
+								"name": "Jiang Dan The Great War",
+								"value": 3212791
+							},
+							{
+								"name": "King of Avalon: Dragon Warfare",
+								"value": 4308626
+							},
+							{
+								"name": "Last Empire-War Z",
+								"value": 215845
+							},
+							{
+								"name": "Last Shelter: Survival",
+								"value": 7257221
+							},
+							{
+								"name": "Lords Mobile",
+								"value": 13252799
+							},
+							{
+								"name": "Mafia City",
+								"value": 8430166
+							},
+							{
+								"name": "My Country",
+								"value": 2007024
+							},
+							{
+								"name": "Rise of Kingdoms",
+								"value": 23151769
+							},
+							{
+								"name": "Shin Sangokushi",
+								"value": 13378302
+							},
+							{
+								"name": "Smash of Dynasty",
+								"value": 496851
+							},
+							{
+								"name": "Song of Time",
+								"value": 289445
+							},
+							{
+								"name": "Thirty six strategies",
+								"value": 136978
+							},
+							{
+								"name": "Three Kingdoms Game",
+								"value": 509778
+							},
+							{
+								"name": "Total Warfare � Epic Kingdoms",
+								"value": 4952692
+							},
+							{
+								"name": "War and Order",
+								"value": 3491585
+							},
+							{
+								"name": "Wild hope of overlord",
+								"value": 753048
+							}
+						]
+					},
+					{
+						"name": "Slot machine gambling",
+						"children": [{
+								"name": "Baoyoufa Entertainment City",
+								"value": 4864757
+							},
+							{
+								"name": "DAFU Casino",
+								"value": 192840
+							},
+							{
+								"name": "Full House Casino",
+								"value": 421663
+							},
+							{
+								"name": "Golden HoYeah Slots",
+								"value": 2635358
+							},
+							{
+								"name": "Golden luck Entertainment City",
+								"value": 8396746
+							},
+							{
+								"name": "Haoshen Entertainment City",
+								"value": 1361595
+							},
+							{
+								"name": "HUGA Slots",
+								"value": 2569917
+							},
+							{
+								"name": "ManganDahen Casino",
+								"value": 6299293
+							},
+							{
+								"name": "Xin Stars",
+								"value": 22125467
+							}
+						]
+					},
+					{
+						"name": "Solving puzzles",
+						"children": [{
+							"name": "Hidden City: Mystery of Shadows",
+							"value": 140017
+						}]
+					},
+					{
+						"name": "Survival sandbox",
+						"children": [{
+								"name": "Fury Survivor: Pixel Z",
+								"value": 161820
+							},
+							{
+								"name": "LifeAfter",
+								"value": 8645661
+							}
+						]
+					},
+					{
+						"name": "Tower Defense",
+						"children": [{
+							"name": "Tower Defense Three Kingdoms",
+							"value": 5242942
+						}]
+					},
+					{
+						"name": "Traditional Anipop",
+						"children": [{
+								"name": "Candy Crush Saga",
+								"value": 16097192
+							},
+							{
+								"name": "Candy Crush Soda Saga",
+								"value": 438467
+							}
+						]
+					},
+					{
+						"name": "Turn-Based Card RPG",
+						"children": [{
+								"name": "A new era of navigation",
+								"value": 332472
+							},
+							{
+								"name": "Another Eden",
+								"value": 2320381
+							},
+							{
+								"name": "Attack on Titan",
+								"value": 212477
+							},
+							{
+								"name": "Black Knight and white Lord",
+								"value": 67094
+							},
+							{
+								"name": "Brown Dust",
+								"value": 3897968
+							},
+							{
+								"name": "Chang'an fantasy painting",
+								"value": 399182
+							},
+							{
+								"name": "Crossing Void",
+								"value": 177658
+							},
+							{
+								"name": "DanMachi Memoria",
+								"value": 695843
+							},
+							{
+								"name": "Destiny Child",
+								"value": 959030
+							},
+							{
+								"name": "Devil Basara",
+								"value": 1940118
+							},
+							{
+								"name": "Dragon Ball Z Dokkan Battle",
+								"value": 3090434
+							},
+							{
+								"name": "Epic Seven",
+								"value": 4321480
+							},
+							{
+								"name": "Evil spirit retreating powder 2",
+								"value": 144487
+							},
+							{
+								"name": "Fate/Grand Order",
+								"value": 19001803
+							},
+							{
+								"name": "Final Blade",
+								"value": 1440814
+							},
+							{
+								"name": "FINAL FANTASY BRAVE EXVIUS",
+								"value": 3673966
+							},
+							{
+								"name": "Food Fantasy",
+								"value": 979940
+							},
+							{
+								"name": "Girl's Frontline",
+								"value": 1710346
+							},
+							{
+								"name": "Goblin's Tail - the strongest guild",
+								"value": 343248
+							},
+							{
+								"name": "Junior Monkey King",
+								"value": 174357
+							},
+							{
+								"name": "Leader 2",
+								"value": 430999
+							},
+							{
+								"name": "OMG!Kingdoms! 2",
+								"value": 5218600
+							},
+							{
+								"name": "One Piece Treasure Cruise",
+								"value": 201898
+							},
+							{
+								"name": "Onmyoji",
+								"value": 6114311
+							},
+							{
+								"name": "Pirates of the Caribbean: Set Sail",
+								"value": 533834
+							},
+							{
+								"name": "Pokemon Quest",
+								"value": 188790
+							},
+							{
+								"name": "Saint Seiya : Awakening",
+								"value": 2964343
+							},
+							{
+								"name": "SHINOBI MASTER -SENRAN KAGURA NEW LINK",
+								"value": 213821
+							},
+							{
+								"name": "SINoALICE",
+								"value": 182895
+							},
+							{
+								"name": "Small shrimps in the world",
+								"value": 284194
+							},
+							{
+								"name": "SNK all star",
+								"value": 481708
+							},
+							{
+								"name": "Space time contract",
+								"value": 64901
+							},
+							{
+								"name": "Summoner of the Gods",
+								"value": 127197
+							},
+							{
+								"name": "Summoners War",
+								"value": 7541702
+							},
+							{
+								"name": "Super warrior Z",
+								"value": 278968
+							},
+							{
+								"name": "The Furious Yama",
+								"value": 91144
+							},
+							{
+								"name": "The King of Fighters' 98 Ultimate Match",
+								"value": 1813737
+							},
+							{
+								"name": "The Legend of Sword and Fairy 5",
+								"value": 94312
+							},
+							{
+								"name": "The Origin of Adventure",
+								"value": 454085
+							},
+							{
+								"name": "The Seven Deadly Sins: Heroes Assembled",
+								"value": 181914
+							},
+							{
+								"name": "The story of the demon God",
+								"value": 433038
+							},
+							{
+								"name": "Two Three Kingdoms: Turn-based",
+								"value": 4181214
+							},
+							{
+								"name": "Yang Guo and Little Dragon Girl",
+								"value": 134705
+							}
+						]
+					},
+					{
+						"name": "Turn-based MMORPG",
+						"children": [{
+								"name": "Cross Gate",
+								"value": 2298925
+							},
+							{
+								"name": "Dawn of Daqin",
+								"value": 128947
+							},
+							{
+								"name": "Destiny of an Emperor M",
+								"value": 940325
+							},
+							{
+								"name": "Searching for immortals in the Tang Dynasty",
+								"value": 146224
+							},
+							{
+								"name": "Stone Age M",
+								"value": 3432963
+							},
+							{
+								"name": "Story of the Peach Blossom Valley",
+								"value": 568796
+							},
+							{
+								"name": "The Croods",
+								"value": 178415
+							},
+							{
+								"name": "Xuan-Yuan Sword Mobile",
+								"value": 580025
+							}
+						]
+					},
+					{
+						"name": "Turn-Based Strategy Game",
+						"children": [{
+								"name": "Hearthstone: Heroes of Warcraft",
+								"value": 4259490
+							},
+							{
+								"name": "Shadowverse",
+								"value": 59672
+							},
+							{
+								"name": "Yu-Gi-Oh! Duel Links",
+								"value": 1492872
+							}
+						]
+					},
+					{
+						"name": "Wargame",
+						"children": [{
+								"name": "Fire Emblem Heroes",
+								"value": 971866
+							},
+							{
+								"name": "Langrisser",
+								"value": 9970585
+							},
+							{
+								"name": "Moonless God",
+								"value": 549701
+							},
+							{
+								"name": "Tale of Wuxia",
+								"value": 775859
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "USA",
+				"children": [{
+						"name": "Action Game",
+						"children": [{
+								"name": "8 Ball Pool",
+								"value": 54316643
+							},
+							{
+								"name": "Golf Clash",
+								"value": 165123149
+							},
+							{
+								"name": "Madden NFL Mobile",
+								"value": 70177493
+							},
+							{
+								"name": "MLB Tap Sports Baseball 2017",
+								"value": 1537114
+							},
+							{
+								"name": "MLB Tap Sports Baseball 2018",
+								"value": 35132850
+							},
+							{
+								"name": "MLB Tap Sports Baseball 2019",
+								"value": 39668561
+							}
+						]
+					},
+					{
+						"name": "Action Real-Time MMORPG",
+						"children": [{
+							"name": "Lineage 2 Revolution",
+							"value": 14200535
+						}]
+					},
+					{
+						"name": "AR+LBS",
+						"children": [{
+								"name": "Harry Potter: Wizards Unite",
+								"value": 2027135
+							},
+							{
+								"name": "Jurassic World Alive",
+								"value": 5197912
+							},
+							{
+								"name": "Pokemon GO",
+								"value": 333129761
+							}
+						]
+					},
+					{
+						"name": "ARPG",
+						"children": [{
+								"name": "Dragalia Lost",
+								"value": 3294965
+							},
+							{
+								"name": "MARVEL Future Fight",
+								"value": 16435353
+							}
+						]
+					},
+					{
+						"name": "Battle royale game",
+						"children": [{
+								"name": "Fortnite",
+								"value": 685212146
+							},
+							{
+								"name": "Free Fire",
+								"value": 18923014
+							},
+							{
+								"name": "PUBG MOBILE",
+								"value": 138524184
+							},
+							{
+								"name": "Rules of Survival",
+								"value": 2151151
+							}
+						]
+					},
+					{
+						"name": "Bead Game",
+						"children": [{
+							"name": "Legendary: Game of Heroes",
+							"value": 32890628
+						}]
+					},
+					{
+						"name": "Business Elimination Game",
+						"children": [{
+								"name": "Fishdom: Deep Dive",
+								"value": 115373245
+							},
+							{
+								"name": "Gardenscapes - New Acres",
+								"value": 202046850
+							},
+							{
+								"name": "Home Design Makeover",
+								"value": 28644287
+							},
+							{
+								"name": "Homescapes",
+								"value": 262034461
+							},
+							{
+								"name": "Matchington Mansion",
+								"value": 111225938
+							}
+						]
+					},
+					{
+						"name": "Casual Game",
+						"children": [{
+								"name": "Angry Birds 2",
+								"value": 78883915
+							},
+							{
+								"name": "Board Kings",
+								"value": 18173172
+							},
+							{
+								"name": "Word Crossy",
+								"value": 13908361
+							},
+							{
+								"name": "Wordscapes",
+								"value": 66098423
+							}
+						]
+					},
+					{
+						"name": "Chess and cards",
+						"children": [{
+								"name": "Solitaire - Grand Harvest",
+								"value": 25627001
+							},
+							{
+								"name": "Solitaire TriPeaks",
+								"value": 63815646
+							},
+							{
+								"name": "World Series of Poker",
+								"value": 110925099
+							},
+							{
+								"name": "Zynga Poker",
+								"value": 28999094
+							}
+						]
+					},
+					{
+						"name": "Dice gambling",
+						"children": [{
+							"name": "New YAHTZEE With Buddies",
+							"value": 72074138
+						}]
+					},
+					{
+						"name": "Dressing Simulation Game",
+						"children": [{
+								"name": "Covet Fashion",
+								"value": 16863083
+							},
+							{
+								"name": "Kim Kardashian: Hollywood",
+								"value": 1913110
+							},
+							{
+								"name": "Miracle Nikki",
+								"value": 32369579
+							}
+						]
+					},
+					{
+						"name": "Dungeon",
+						"children": [{
+							"name": "Archero",
+							"value": 5802610
+						}]
+					},
+					{
+						"name": "Fighting Game",
+						"children": [{
+								"name": "MapleStory M",
+								"value": 1142118
+							},
+							{
+								"name": "Marvel Contest of Champions",
+								"value": 186860884
+							}
+						]
+					},
+					{
+						"name": "FPS",
+						"children": [{
+								"name": "Call of Duty: Mobile",
+								"value": 36875486
+							},
+							{
+								"name": "Pixel Gun 3D",
+								"value": 13783065
+							},
+							{
+								"name": "Sniper 3D Assassin",
+								"value": 17680085
+							}
+						]
+					},
+					{
+						"name": "FPS+MOBA",
+						"children": [{
+							"name": "War Robots",
+							"value": 38433146
+						}]
+					},
+					{
+						"name": "Free sandbox",
+						"children": [{
+								"name": "Minecraft Pocket Edition",
+								"value": 106805306
+							},
+							{
+								"name": "ROBLOX",
+								"value": 414963660
+							}
+						]
+					},
+					{
+						"name": "idle game",
+						"children": [{
+								"name": "AFK Arena",
+								"value": 28621486
+							},
+							{
+								"name": "Idle Heroes",
+								"value": 49533067
+							}
+						]
+					},
+					{
+						"name": "imitating ancient palace intrigue",
+						"children": [{
+							"name": "Game of Sultans",
+							"value": 27891227
+						}]
+					},
+					{
+						"name": "IO",
+						"children": [{
+							"name": "Brawl Stars",
+							"value": 60189401
+						}]
+					},
+					{
+						"name": "Leisure gambling",
+						"children": [{
+							"name": "Coin Master",
+							"value": 89390371
+						}]
+					},
+					{
+						"name": "Love Game",
+						"children": [{
+								"name": "Chapters-Interactive stories",
+								"value": 28888694
+							},
+							{
+								"name": "Choices: Stories You Play",
+								"value": 83267943
+							},
+							{
+								"name": "Episode",
+								"value": 85541179
+							}
+						]
+					},
+					{
+						"name": "Mixed Game",
+						"children": [{
+								"name": "Merge Dragons",
+								"value": 83286395
+							},
+							{
+								"name": "Merge Magic",
+								"value": 6087061
+							}
+						]
+					},
+					{
+						"name": "MOBA",
+						"children": [{
+							"name": "Mobile Legends: Bang bang",
+							"value": 3963639
+						}]
+					},
+					{
+						"name": "Other simulations",
+						"children": [{
+								"name": "Dragon City",
+								"value": 1850135
+							},
+							{
+								"name": "Harry Potter: Hogwarts Mystery",
+								"value": 47308307
+							},
+							{
+								"name": "Monster Legends",
+								"value": 1338438
+							},
+							{
+								"name": "The Sims FreePlay",
+								"value": 8189533
+							},
+							{
+								"name": "The Sims Mobile",
+								"value": 1927620
+							}
+						]
+					},
+					{
+						"name": "Pinball Game",
+						"children": [{
+							"name": "Bubble Witch 3 Saga",
+							"value": 16915294
+						}]
+					},
+					{
+						"name": "Race Game",
+						"children": [{
+								"name": "CSR Racing 2",
+								"value": 82586705
+							},
+							{
+								"name": "Mario Kart Tour",
+								"value": 16797259
+							}
+						]
+					},
+					{
+						"name": "Real time card game RPG",
+						"children": [{
+								"name": "Hero Wars",
+								"value": 14034676
+							},
+							{
+								"name": "Pokemon Masters",
+								"value": 2619657
+							}
+						]
+					},
+					{
+						"name": "Real-Time Strategy Game",
+						"children": [{
+								"name": "Clash Royale",
+								"value": 240179326
+							},
+							{
+								"name": "DRAGON BALL LEGENDS",
+								"value": 33310016
+							}
+						]
+					},
+					{
+						"name": "RPG Elimination Game",
+						"children": [{
+								"name": "Best Fiends",
+								"value": 49420998
+							},
+							{
+								"name": "Empires ; Puzzles",
+								"value": 93616443
+							},
+							{
+								"name": "WWE: Champions",
+								"value": 18407188
+							}
+						]
+					},
+					{
+						"name": "RTS",
+						"children": [{
+							"name": "Army Men Strike",
+							"value": 33947803
+						}]
+					},
+					{
+						"name": "SameGame",
+						"children": [{
+								"name": "Lily's Garden",
+								"value": 15630646
+							},
+							{
+								"name": "Toon Blast",
+								"value": 319598899
+							}
+						]
+					},
+					{
+						"name": "Simulation Game",
+						"children": [{
+								"name": "Cooking Craze",
+								"value": 11882591
+							},
+							{
+								"name": "Cooking Fever",
+								"value": 1569561
+							},
+							{
+								"name": "Design Home",
+								"value": 129525908
+							},
+							{
+								"name": "Diner DASH Adventures",
+								"value": 4757900
+							},
+							{
+								"name": "Disney Magic Kingdoms",
+								"value": 1798270
+							},
+							{
+								"name": "Forge of Empires",
+								"value": 9579968
+							},
+							{
+								"name": "Hay Day",
+								"value": 71620487
+							},
+							{
+								"name": "Hustle Castle: Fantasy Kingdom",
+								"value": 5971587
+							},
+							{
+								"name": "Klondike Adventures",
+								"value": 30036836
+							},
+							{
+								"name": "The Walking Dead: Road to Survival",
+								"value": 20615320
+							},
+							{
+								"name": "Township",
+								"value": 100886472
+							}
+						]
+					},
+					{
+						"name": "SLG",
+						"children": [{
+								"name": "Ark of War",
+								"value": 778942
+							},
+							{
+								"name": "Art of Conquest",
+								"value": 2518994
+							},
+							{
+								"name": "Battle Warship: Naval Empire",
+								"value": 1018868
+							},
+							{
+								"name": "Brutal Age: Horde Invasion",
+								"value": 6961853
+							},
+							{
+								"name": "Castle Clash",
+								"value": 5953501
+							},
+							{
+								"name": "Clash of Clans",
+								"value": 434201219
+							},
+							{
+								"name": "Clash of Kings",
+								"value": 41996086
+							},
+							{
+								"name": "Evony",
+								"value": 4651038
+							},
+							{
+								"name": "Final Fantasy XV: A New Empire",
+								"value": 142607296
+							},
+							{
+								"name": "Game of Thrones: Conquest",
+								"value": 170581922
+							},
+							{
+								"name": "Game of War - Fire Age",
+								"value": 7292760
+							},
+							{
+								"name": "Guns of Glory",
+								"value": 151107060
+							},
+							{
+								"name": "Invasion: Modern Empire",
+								"value": 1443047
+							},
+							{
+								"name": "King of Avalon: Dragon Warfare",
+								"value": 81025206
+							},
+							{
+								"name": "Last Shelter: Survival",
+								"value": 50346077
+							},
+							{
+								"name": "Lords Mobile",
+								"value": 99262635
+							},
+							{
+								"name": "Mafia City",
+								"value": 34088781
+							},
+							{
+								"name": "Mobile Strike",
+								"value": 14133431
+							},
+							{
+								"name": "Revenge of Sultans",
+								"value": 18945731
+							},
+							{
+								"name": "Rise of Kingdoms",
+								"value": 68858969
+							},
+							{
+								"name": "Shin Sangokushi",
+								"value": 235179
+							},
+							{
+								"name": "Star Trek Fleet Command",
+								"value": 44890629
+							},
+							{
+								"name": "Vikings: War of Clans",
+								"value": 13890452
+							},
+							{
+								"name": "War and Order",
+								"value": 46485683
+							},
+							{
+								"name": "War Dragons",
+								"value": 59613464
+							},
+							{
+								"name": "World War Rising",
+								"value": 4183852
+							}
+						]
+					},
+					{
+						"name": "Slot machine gambling",
+						"children": [{
+								"name": "Big Fish Casino",
+								"value": 152296946
+							},
+							{
+								"name": "Billionaire Casino",
+								"value": 46962096
+							},
+							{
+								"name": "Bingo Bash",
+								"value": 44781138
+							},
+							{
+								"name": "BINGO Blitz",
+								"value": 135739661
+							},
+							{
+								"name": "Caesars Slots",
+								"value": 71081821
+							},
+							{
+								"name": "Cash Frenzy",
+								"value": 22552113
+							},
+							{
+								"name": "Cashman Casino",
+								"value": 124887274
+							},
+							{
+								"name": "DoubleDown Casino",
+								"value": 197504713
+							},
+							{
+								"name": "DoubleU Casino",
+								"value": 101244951
+							},
+							{
+								"name": "Free Slots: Hot Vegas Slot Machines",
+								"value": 14667884
+							},
+							{
+								"name": "Gold Fish Casino Slots",
+								"value": 58986426
+							},
+							{
+								"name": "GSN Casino",
+								"value": 8924669
+							},
+							{
+								"name": "Heart of Vegas",
+								"value": 131532501
+							},
+							{
+								"name": "Hit it Rich",
+								"value": 60086472
+							},
+							{
+								"name": "Jackpot City Slots",
+								"value": 70190266
+							},
+							{
+								"name": "Jackpot Party Casino",
+								"value": 137086873
+							},
+							{
+								"name": "KONAMI Slots",
+								"value": 48385030
+							},
+							{
+								"name": "Lightning Link Casino",
+								"value": 18360244
+							},
+							{
+								"name": "myVEGAS Slots",
+								"value": 10858617
+							},
+							{
+								"name": "POP! Slots",
+								"value": 72440888
+							},
+							{
+								"name": "Quick Hit Slots by Dragonplay",
+								"value": 64061954
+							},
+							{
+								"name": "Scatter Slots",
+								"value": 31817747
+							},
+							{
+								"name": "Slotomania",
+								"value": 280159838
+							},
+							{
+								"name": "Slots - House of Fun",
+								"value": 161829943
+							},
+							{
+								"name": "Slots Casino Games by Huuuge",
+								"value": 97602241
+							},
+							{
+								"name": "Wizard of Oz Slots Casino",
+								"value": 72713455
+							}
+						]
+					},
+					{
+						"name": "Solving puzzles",
+						"children": [{
+								"name": "Hidden City: Mystery of Shadows",
+								"value": 14050792
+							},
+							{
+								"name": "June's Journey",
+								"value": 23242442
+							},
+							{
+								"name": "Seekers Notes",
+								"value": 32007210
+							}
+						]
+					},
+					{
+						"name": "Survival sandbox",
+						"children": [{
+							"name": "Last Day on Earth: Survival",
+							"value": 7238823
+						}]
+					},
+					{
+						"name": "Traditional Anipop",
+						"children": [{
+								"name": "Candy Crush Friends Saga",
+								"value": 55443850
+							},
+							{
+								"name": "Candy Crush Jelly Saga",
+								"value": 33414932
+							},
+							{
+								"name": "Candy Crush Saga",
+								"value": 858435840
+							},
+							{
+								"name": "Candy Crush Soda Saga",
+								"value": 272101395
+							},
+							{
+								"name": "Clockmaker",
+								"value": 8895581
+							},
+							{
+								"name": "Cookie Jam",
+								"value": 64670040
+							},
+							{
+								"name": "Farm Heroes Saga",
+								"value": 49840810
+							},
+							{
+								"name": "Gummy Drop!",
+								"value": 19644696
+							},
+							{
+								"name": "Panda Pop",
+								"value": 22652514
+							},
+							{
+								"name": "Pet Rescue Saga",
+								"value": 21489046
+							},
+							{
+								"name": "The Wizard of Oz: Magic Match",
+								"value": 8971737
+							},
+							{
+								"name": "Toy Blast",
+								"value": 194709733
+							}
+						]
+					},
+					{
+						"name": "Turn-Based Card RPG",
+						"children": [{
+								"name": "Dragon Ball Z Dokkan Battle",
+								"value": 148594772
+							},
+							{
+								"name": "Epic Seven",
+								"value": 23381864
+							},
+							{
+								"name": "Fate/Grand Order",
+								"value": 51214387
+							},
+							{
+								"name": "FINAL FANTASY BRAVE EXVIUS",
+								"value": 18203038
+							},
+							{
+								"name": "Junior Three Kingdoms",
+								"value": 3378914
+							},
+							{
+								"name": "Looney Tunes World of Mayhem",
+								"value": 1296802
+							},
+							{
+								"name": "MARVEL Strike Force",
+								"value": 66719965
+							},
+							{
+								"name": "RAID: Shadow Legends",
+								"value": 30114987
+							},
+							{
+								"name": "Star Wars: Galaxy of Heroes",
+								"value": 91953814
+							},
+							{
+								"name": "Summoners War",
+								"value": 75843340
+							}
+						]
+					},
+					{
+						"name": "Turn-Based Strategy Game",
+						"children": [{
+								"name": "Hearthstone: Heroes of Warcraft",
+								"value": 15457783
+							},
+							{
+								"name": "WWE SuperCard",
+								"value": 1435534
+							},
+							{
+								"name": "Yu-Gi-Oh! Duel Links",
+								"value": 23904486
+							}
+						]
+					},
+					{
+						"name": "Wargame",
+						"children": [{
+								"name": "Fire Emblem Heroes",
+								"value": 47219358
+							},
+							{
+								"name": "Langrisser",
+								"value": 1233600
+							}
+						]
+					}
+				]
+			}   
+   ]
+}
